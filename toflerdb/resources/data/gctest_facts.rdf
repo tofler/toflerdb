@@ -1,0 +1,159 @@
+START_TRANSACTION .
+_person_1 to:type gctest:Person .
+_person_1 to:label "Mckenzie Mclean" .
+_person_1 gctest:dateOfBirth "19610101" .
+
+_person_2 to:type gctest:Person .
+_person_2 to:label "Mays Talley" .
+_person_2 gctest:dateOfBirth "19620101" .
+
+_person_3 to:type gctest:Person .
+_person_3 to:label "Carrillo Parsons" .
+_person_3 gctest:dateOfBirth "19610101" .
+
+_person_4 to:type gctest:Person .
+_person_4 to:label "Mcmahon Phillips" .
+_person_4 gctest:dateOfBirth "19640101" .
+
+_person_5 to:type gctest:Person .
+_person_5 to:label "Mccarty Atkins" .
+_person_5 gctest:dateOfBirth "19950101" .
+
+_person_6 to:type gctest:Person .
+_person_6 to:label "Elisa Beasley" .
+_person_6 gctest:dateOfBirth "19960101" .
+
+_person_7 to:type gctest:Person .
+_person_7 to:label "Tisha Moreno" .
+_person_7 gctest:dateOfBirth "19980101" .
+
+_person_8 to:type gctest:Person .
+_person_8 to:label "Holloway Irwin" .
+_person_8 gctest:dateOfBirth "19970101" .
+
+_person_9 to:type gctest:Person .
+_person_9 to:label "Kirkland Hughes" .
+_person_9 gctest:dateOfBirth "19990101" .
+
+_person_10 to:type gctest:Person .
+_person_10 to:label "Trudy Maxwell" .
+_person_10 gctest:dateOfBirth "19610101" .
+
+_person_11 to:type gctest:Person .
+_person_11 to:label "Black Malone" .
+_person_11 gctest:dateOfBirth "19600101" .
+
+_person_12 to:type gctest:Person .
+_person_12 to:label "Ashlee Silva" .
+_person_12 gctest:dateOfBirth "19700101" .
+COMMIT .
+START_TRANSACTION .
+_hasspouse_1_2 to:type gctest:hasSpouse .
+_person_1 _hasspouse_1_2 _person_2 .
+_hasspouse_1_2 gctest:marriedOn "19850101" .
+_hasspouse_1_2 gctest:marriedBy _person_11 .
+
+_hasrealtive_1_10 to:type gctest:hasRelative .
+_person_1 _hasrealtive_1_10 _person_10 .
+_hasrealtive_1_10 gctest:relationName "Uncle" .
+
+_hasrealtive_1_11 to:type gctest:hasRelative .
+_person_1 _hasrealtive_1_11 _person_11 .
+_hasrealtive_1_11 gctest:relationName "Aunt" .
+
+_hasrealtive_3_10 to:type gctest:hasRelative .
+_person_3 _hasrealtive_3_10 _person_10 .
+_hasrealtive_3_10 gctest:relationName "Grand Father" .
+
+_hasrealtive_3_12 to:type gctest:hasRelative .
+_person_3 _hasrealtive_3_12 _person_12 .
+_hasrealtive_3_12 gctest:relationName "Cousine" .
+
+_hasspouse_3_4 to:type gctest:hasSpouse .
+_person_3 _hasspouse_3_4 _person_4 .
+_hasspouse_3_4 gctest:marriedOn "19900101" .
+_hasspouse_3_4 gctest:marriedBy _person_12 .
+
+_person_1 gctest:hasChild _person_5 .
+_person_1 gctest:hasChild _person_6 .
+_person_3 gctest:hasChild _person_7 .
+_person_3 gctest:hasChild _person_8 .
+
+_education_1_1 to:type gctest:hasEducation .
+_education_1_1 gctest:educationLevel "Graduation" .
+_education_1_1 gctest:pointScored 74 .
+_education_1_1 gctest:maxScore 100 .
+_person_1 _education_1_1 '' .
+_education_1_1_1 to:type gctest:educationDuration .
+_education_1_1_1 gctest:educationDurationStart "1980" .
+_education_1_1_1 gctest:educationDurationEnd "1984" .
+_education_1_1 _education_1_1_1 '' .
+
+_education_1_2 to:type gctest:hasEducation .
+_education_1_2 gctest:educationLevel "MBA" .
+_education_1_2 gctest:pointScored 8.3 .
+_education_1_2 gctest:maxScore 10 .
+_person_1 _education_1_2 '' .
+_education_1_2_1 to:type gctest:educationDuration .
+_education_1_2_1 gctest:educationDurationStart "1984" .
+_education_1_2_1 gctest:educationDurationEnd "1986" .
+_education_1_2 _education_1_2_1 '' .
+
+_education_2_1 to:type gctest:hasEducation .
+_education_2_1 gctest:educationLevel "BTECH" .
+_education_2_1 gctest:pointScored 3.1 .
+_education_2_1 gctest:maxScore 4 .
+_person_2 _education_2_1 '' .
+_education_2_1_1 to:type gctest:educationDuration .
+_education_2_1_1 gctest:educationDurationStart "1980" .
+_education_2_1_1 gctest:educationDurationEnd "1984" .
+_education_2_1 _education_2_1_1 '' .
+
+_education_5_1 to:type gctest:hasEducation .
+_education_5_1 gctest:educationLevel "10TH" .
+_education_5_1 gctest:pointScored 90 .
+_education_5_1 gctest:maxScore 100 .
+_person_5 _education_5_1 '' .
+_education_5_1_1 to:type gctest:educationDuration .
+_education_5_1_1 gctest:educationDurationStart "2000" .
+_education_5_1_1 gctest:educationDurationEnd "2002" .
+_education_5_1 _education_5_1_1 '' .
+
+_education_5_2 to:type gctest:hasEducation .
+_education_5_2 gctest:educationLevel "12TH" .
+_education_5_2 gctest:pointScored 8.7 .
+_education_5_2 gctest:maxScore 10 .
+_person_5 _education_5_2 '' .
+_education_5_2_1 to:type gctest:educationDuration .
+_education_5_2_1 gctest:educationDurationStart "2002" .
+_education_5_2_1 gctest:educationDurationEnd "2004" .
+_education_5_2 _education_5_2_1 '' .
+
+_education_6_1 to:type gctest:hasEducation .
+_education_6_1 gctest:educationLevel "10TH" .
+_education_6_1 gctest:pointScored 49 .
+_education_6_1 gctest:maxScore 100 .
+_person_6 _education_6_1 '' .
+_education_6_1_1 to:type gctest:educationDuration .
+_education_6_1_1 gctest:educationDurationStart "2001" .
+_education_6_1_1 gctest:educationDurationEnd "2003" .
+_education_6_1 _education_6_1_1 '' .
+
+_education_7_1 to:type gctest:hasEducation .
+_education_7_1 gctest:educationLevel "10TH" .
+_education_7_1 gctest:pointScored 91 .
+_education_7_1 gctest:maxScore 100 .
+_person_7 _education_7_1 '' .
+
+_education_8_1 to:type gctest:hasEducation .
+_education_8_1 gctest:educationLevel "10TH" .
+_education_8_1 gctest:pointScored 83 .
+_education_8_1 gctest:maxScore 100 .
+_person_8 _education_8_1 '' .
+
+_education_9_1 to:type gctest:hasEducation .
+_education_9_1 gctest:educationLevel "10TH" .
+_education_9_1 gctest:pointScored 86 .
+_education_9_1 gctest:maxScore 100 .
+_person_9 _education_9_1 '' .
+COMMIT .

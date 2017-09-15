@@ -1,0 +1,42 @@
+START_TRANSACTION .
+to:RelationalProperty to:subClassOf to:Property .
+to:ComplexProperty to:subClassOf to:Property .
+to:ComplexRelationalProperty to:subClassOf to:Property .
+ 
+# different literal definitions
+to:Int to:subClassOf to:Literal .
+to:Float to:subClassOf to:Literal .
+to:Date to:subClassOf to:Literal .
+to:DateTime to:subClassOf to:Literal .
+to:Enum to:subClassOf to:Literal .
+to:String to:subClassOf to:Literal .
+to:Token to:subClassOf to:Literal .
+to:ID to:subClassOf to:Token .
+to:URL to:subClassOf to:Token .
+to:Null to:subClassOf to:Literal .
+
+# 
+to:type to:subClassOf to:Property .
+to:type to:domain to:Entity .
+to:type to:domain to:ComplexProperty .
+to:type to:domain to:ComplexRelationalProperty .
+to:type to:range to:Token .
+
+#
+to:templatizedId to:subClassOf to:Property .
+to:templatizedId to:domain to:Entity .
+to:templatizedId to:domain to:ComplexProperty .
+to:templatizedId to:domain to:ComplexRelationalProperty .
+to:templatizedId to:range to:ID .
+to:templatizedId to:isUnique True .
+
+# 
+to:label to:subClassOf to:Property .
+to:label to:domain to:Entity .
+to:label to:range to:String .
+
+# 
+to:description to:subClassOf to:Property .
+to:description to:domain to:Entity .
+to:description to:range to:String .
+COMMIT .

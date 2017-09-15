@@ -1,0 +1,83 @@
+START_TRANSACTION
+usgovsec:SECRegulatedEntity to:subClassOf to:Entity
+usgovsec:SECRegulatedEntity to:ontoLabel "SEC Regulated Entity"
+
+usgovsec:Company to:subClassOf usgovsec:SECRegulatedEntity
+usgovsec:Company to:ontoLabel "US SEC Company"
+
+usgovsec:CIK to:subClassOf to:ID
+usgovsec:CIK to:ontoLabel "Central Index Key (CIK)"
+
+usgovsec:hasCIK to:subClassOf to:Property
+usgovsec:hasCIK to:domain usgovsec:SECRegulatedEntity
+usgovsec:hasCIK to:range usgovsec:CIK
+usgovsec:hasCIK to:ontoLabel "Has CIK"
+usgovsec:hasCIK to:isUnique True
+
+usgovsec:hasName to:subClassOf to:Property
+usgovsec:hasName to:domain usgovsec:SECRegulatedEntity
+usgovsec:hasName to:range to:String
+usgovsec:hasName to:ontoLabel "Name"
+usgovsec:hasName to:isUnique True
+
+usgovsec:hasPhoneNumber to:subClassOf to:Property
+usgovsec:hasPhoneNumber to:domain usgovsec:SECRegulatedEntity
+usgovsec:hasPhoneNumber to:range to:String
+usgovsec:hasPhoneNumber to:ontoLabel "Has Phone Number"
+
+usgovsec:industry to:subClassOf to:Property
+usgovsec:industry to:domain usgovsec:SECRegulatedEntity
+usgovsec:industry to:range to:String
+usgovsec:industry to:ontoLabel "Belongs to Industry Group"
+
+usgovsec:hasJurisdiction to:subClassOf to:Property
+usgovsec:hasJurisdiction to:domain usgovsec:SECRegulatedEntity
+usgovsec:hasJurisdiction to:range to:String
+usgovsec:hasJurisdiction to:ontoLabel "Jurisdiction of Incorporation"
+
+usgovsec:entityType to:subClassOf to:Property
+usgovsec:entityType to:domain usgovsec:SECRegulatedEntity
+usgovsec:entityType to:range to:Token
+usgovsec:entityType to:ontoLabel "Entity Type"
+
+usgovsec:Form to:subClassOf to:Entity
+usgovsec:Form to:ontoLabel "US SEC Form"
+
+usgovsec:filedForm to:subClassOf to:RelationalProperty
+usgovsec:filedForm to:domain usgovsec:SECRegulatedEntity
+usgovsec:filedForm to:range usgovsec:Form
+usgovsec:filedForm to:ontoLabel "Has Filed Form"
+
+usgovsec:filedBy to:subClassOf to:RelationalProperty
+usgovsec:filedBy to:domain usgovsec:Form
+usgovsec:filedBy to:range usgovsec:SECRegulatedEntity
+usgovsec:filedBy to:ontoLabel "Was Filed By"
+usgovsec:filedBy to:isUnique True
+
+usgovsec:filerCIK to:subClassOf to:Property
+usgovsec:filerCIK to:domain usgovsec:Form
+usgovsec:filerCIK to:range to:String
+usgovsec:filerCIK to:ontoLabel "CIK of Filer"
+usgovsec:filerCIK to:isUnique True
+
+usgovsec:FormD to:subClassOf usgovsec:Form
+usgovsec:FormD to:ontoLabel "US SEC Form D"
+
+usgovsec:issuerName to:subClassOf to:Property
+usgovsec:issuerName to:domain usgovsec:FormD
+usgovsec:issuerName to:range to:String
+usgovsec:issuerName to:ontoLabel "Name of Issuer"
+usgovsec:issuerName to:isUnique True
+
+usgovsec:offeringAmount to:subClassOf to:Property
+usgovsec:offeringAmount to:domain usgovsec:FormD
+usgovsec:offeringAmount to:range to:Float
+usgovsec:offeringAmount to:ontoLabel "Offering Amount"
+usgovsec:offeringAmount to:isUnique True
+
+usgovsec:totalSoldAmount to:subClassOf to:Property
+usgovsec:totalSoldAmount to:domain usgovsec:FormD
+usgovsec:totalSoldAmount to:range to:Float
+usgovsec:totalSoldAmount to:ontoLabel "Amount Sold"
+usgovsec:totalSoldAmount to:isUnique True
+COMMIT

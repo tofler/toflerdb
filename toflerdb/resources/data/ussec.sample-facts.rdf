@@ -1,0 +1,2548 @@
+START_TRANSACTION
+_usgovcik:1000298 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1000298 usgovsec:hasCIK 1000298
+_usgovcik:1000298 to:label "IMPAC MORTGAGE HOLDINGS INC"
+_usgovcik:1000298 usgovsec:hasName "IMPAC MORTGAGE HOLDINGS INC"
+_usgovcik:1000623 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1000623 usgovsec:hasCIK 1000623
+_usgovcik:1000623 to:label "SCHWEITZER MAUDUIT INTERNATIONAL INC"
+_usgovcik:1000623 usgovsec:hasName "SCHWEITZER MAUDUIT INTERNATIONAL INC"
+_usgovcik:1000697 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1000697 usgovsec:hasCIK 1000697
+_usgovcik:1000697 to:label "WATERS CORP /DE/"
+_usgovcik:1000697 usgovsec:hasName "WATERS CORP /DE/"
+_usgovcik:1001233 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1001233 usgovsec:hasCIK 1001233
+_usgovcik:1001233 to:label "SANGAMO THERAPEUTICS, INC"
+_usgovcik:1001233 usgovsec:hasName "SANGAMO THERAPEUTICS, INC"
+_usgovcik:1001601 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1001601 usgovsec:hasCIK 1001601
+_usgovcik:1001601 to:label "MGT CAPITAL INVESTMENTS INC"
+_usgovcik:1001601 usgovsec:hasName "MGT CAPITAL INVESTMENTS INC"
+_usgovcik:1003201 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1003201 usgovsec:hasCIK 1003201
+_usgovcik:1003201 to:label "MMA CAPITAL MANAGEMENT, LLC"
+_usgovcik:1003201 usgovsec:hasName "MMA CAPITAL MANAGEMENT, LLC"
+_usgovcik:1003410 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1003410 usgovsec:hasCIK 1003410
+_usgovcik:1003410 to:label "DUKE REALTY LIMITED PARTNERSHIP/"
+_usgovcik:1003410 usgovsec:hasName "DUKE REALTY LIMITED PARTNERSHIP/"
+_usgovcik:1004434 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1004434 usgovsec:hasCIK 1004434
+_usgovcik:1004434 to:label "AFFILIATED MANAGERS GROUP, INC."
+_usgovcik:1004434 usgovsec:hasName "AFFILIATED MANAGERS GROUP, INC."
+_usgovcik:1004980 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1004980 usgovsec:hasCIK 1004980
+_usgovcik:1004980 to:label "PG&E Corp"
+_usgovcik:1004980 usgovsec:hasName "PG&E Corp"
+_usgovcik:100517 to:type usgovsec:SECRegulatedEntity
+_usgovcik:100517 usgovsec:hasCIK 100517
+_usgovcik:100517 to:label "United Continental Holdings, Inc."
+_usgovcik:100517 usgovsec:hasName "United Continental Holdings, Inc."
+_usgovcik:1005201 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1005201 usgovsec:hasCIK 1005201
+_usgovcik:1005201 to:label "DEPOMED INC"
+_usgovcik:1005201 usgovsec:hasName "DEPOMED INC"
+_usgovcik:1005757 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1005757 usgovsec:hasCIK 1005757
+_usgovcik:1005757 to:label "CSG SYSTEMS INTERNATIONAL INC"
+_usgovcik:1005757 usgovsec:hasName "CSG SYSTEMS INTERNATIONAL INC"
+_usgovcik:1011570 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1011570 usgovsec:hasCIK 1011570
+_usgovcik:1011570 to:label "KNOLL INC"
+_usgovcik:1011570 usgovsec:hasName "KNOLL INC"
+_usgovcik:1012569 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1012569 usgovsec:hasCIK 1012569
+_usgovcik:1012569 to:label "Energy Transfer Partners, L.P."
+_usgovcik:1012569 usgovsec:hasName "Energy Transfer Partners, L.P."
+_usgovcik:1013857 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1013857 usgovsec:hasCIK 1013857
+_usgovcik:1013857 to:label "PEGASYSTEMS INC"
+_usgovcik:1013857 usgovsec:hasName "PEGASYSTEMS INC"
+_usgovcik:1015155 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1015155 usgovsec:hasCIK 1015155
+_usgovcik:1015155 to:label "CHARLES & COLVARD LTD"
+_usgovcik:1015155 usgovsec:hasName "CHARLES & COLVARD LTD"
+_usgovcik:1015647 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1015647 usgovsec:hasCIK 1015647
+_usgovcik:1015647 to:label "ALMADEN MINERALS LTD"
+_usgovcik:1015647 usgovsec:hasName "ALMADEN MINERALS LTD"
+_usgovcik:1016125 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1016125 usgovsec:hasCIK 1016125
+_usgovcik:1016125 to:label "ULTIMATE SOFTWARE GROUP INC"
+_usgovcik:1016125 usgovsec:hasName "ULTIMATE SOFTWARE GROUP INC"
+_usgovcik:101778 to:type usgovsec:SECRegulatedEntity
+_usgovcik:101778 usgovsec:hasCIK 101778
+_usgovcik:101778 to:label "MARATHON OIL CORP"
+_usgovcik:101778 usgovsec:hasName "MARATHON OIL CORP"
+_usgovcik:1018963 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1018963 usgovsec:hasCIK 1018963
+_usgovcik:1018963 to:label "ALLEGHENY TECHNOLOGIES INC"
+_usgovcik:1018963 usgovsec:hasName "ALLEGHENY TECHNOLOGIES INC"
+_usgovcik:1018979 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1018979 usgovsec:hasCIK 1018979
+_usgovcik:1018979 to:label "AMERISAFE INC"
+_usgovcik:1018979 usgovsec:hasName "AMERISAFE INC"
+_usgovcik:1019849 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1019849 usgovsec:hasCIK 1019849
+_usgovcik:1019849 to:label "PENSKE AUTOMOTIVE GROUP, INC."
+_usgovcik:1019849 usgovsec:hasName "PENSKE AUTOMOTIVE GROUP, INC."
+_usgovcik:1022079 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1022079 usgovsec:hasCIK 1022079
+_usgovcik:1022079 to:label "QUEST DIAGNOSTICS INC"
+_usgovcik:1022079 usgovsec:hasName "QUEST DIAGNOSTICS INC"
+_usgovcik:1022344 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1022344 usgovsec:hasCIK 1022344
+_usgovcik:1022344 to:label "SIMON PROPERTY GROUP L P /DE/"
+_usgovcik:1022344 usgovsec:hasName "SIMON PROPERTY GROUP L P /DE/"
+_usgovcik:1023024 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1023024 usgovsec:hasCIK 1023024
+_usgovcik:1023024 to:label "ANI PHARMACEUTICALS INC"
+_usgovcik:1023024 usgovsec:hasName "ANI PHARMACEUTICALS INC"
+_usgovcik:1023860 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1023860 usgovsec:hasCIK 1023860
+_usgovcik:1023860 to:label "STEWARDSHIP FINANCIAL CORP"
+_usgovcik:1023860 usgovsec:hasName "STEWARDSHIP FINANCIAL CORP"
+_usgovcik:1024478 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1024478 usgovsec:hasCIK 1024478
+_usgovcik:1024478 to:label "ROCKWELL AUTOMATION INC"
+_usgovcik:1024478 usgovsec:hasName "ROCKWELL AUTOMATION INC"
+_usgovcik:1024725 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1024725 usgovsec:hasCIK 1024725
+_usgovcik:1024725 to:label "TENNECO INC"
+_usgovcik:1024725 usgovsec:hasName "TENNECO INC"
+_usgovcik:1025378 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1025378 usgovsec:hasCIK 1025378
+_usgovcik:1025378 to:label "W. P. Carey Inc."
+_usgovcik:1025378 usgovsec:hasName "W. P. Carey Inc."
+_usgovcik:1025835 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1025835 usgovsec:hasCIK 1025835
+_usgovcik:1025835 to:label "ENTERPRISE FINANCIAL SERVICES CORP"
+_usgovcik:1025835 usgovsec:hasName "ENTERPRISE FINANCIAL SERVICES CORP"
+_usgovcik:1028734 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1028734 usgovsec:hasCIK 1028734
+_usgovcik:1028734 to:label "COBIZ FINANCIAL INC"
+_usgovcik:1028734 usgovsec:hasName "COBIZ FINANCIAL INC"
+_usgovcik:1032033 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1032033 usgovsec:hasCIK 1032033
+_usgovcik:1032033 to:label "SLM CORP"
+_usgovcik:1032033 usgovsec:hasName "SLM CORP"
+_usgovcik:1033128 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1033128 usgovsec:hasCIK 1033128
+_usgovcik:1033128 to:label "FIRST INDUSTRIAL LP"
+_usgovcik:1033128 usgovsec:hasName "FIRST INDUSTRIAL LP"
+_usgovcik:1033905 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1033905 usgovsec:hasCIK 1033905
+_usgovcik:1033905 to:label "LUMINEX CORP"
+_usgovcik:1033905 usgovsec:hasName "LUMINEX CORP"
+_usgovcik:1034842 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1034842 usgovsec:hasCIK 1034842
+_usgovcik:1034842 to:label "RIGEL PHARMACEUTICALS INC"
+_usgovcik:1034842 usgovsec:hasName "RIGEL PHARMACEUTICALS INC"
+_usgovcik:1035443 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1035443 usgovsec:hasCIK 1035443
+_usgovcik:1035443 to:label "ALEXANDRIA REAL ESTATE EQUITIES INC"
+_usgovcik:1035443 usgovsec:hasName "ALEXANDRIA REAL ESTATE EQUITIES INC"
+_usgovcik:1037676 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1037676 usgovsec:hasCIK 1037676
+_usgovcik:1037676 to:label "ARCH COAL INC"
+_usgovcik:1037676 usgovsec:hasName "ARCH COAL INC"
+_usgovcik:1038277 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1038277 usgovsec:hasCIK 1038277
+_usgovcik:1038277 to:label "INTERNATIONAL ISOTOPES INC"
+_usgovcik:1038277 usgovsec:hasName "INTERNATIONAL ISOTOPES INC"
+_usgovcik:103872 to:type usgovsec:SECRegulatedEntity
+_usgovcik:103872 usgovsec:hasCIK 103872
+_usgovcik:103872 to:label "VOLT INFORMATION SCIENCES, INC."
+_usgovcik:103872 usgovsec:hasName "VOLT INFORMATION SCIENCES, INC."
+_usgovcik:1039684 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1039684 usgovsec:hasCIK 1039684
+_usgovcik:1039684 to:label "ONEOK INC /NEW/"
+_usgovcik:1039684 usgovsec:hasName "ONEOK INC /NEW/"
+_usgovcik:1042046 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1042046 usgovsec:hasCIK 1042046
+_usgovcik:1042046 to:label "AMERICAN FINANCIAL GROUP INC"
+_usgovcik:1042046 usgovsec:hasName "AMERICAN FINANCIAL GROUP INC"
+_usgovcik:1042810 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1042810 usgovsec:hasCIK 1042810
+_usgovcik:1042810 to:label "EQUITY ONE, INC."
+_usgovcik:1042810 usgovsec:hasName "EQUITY ONE, INC."
+_usgovcik:1043604 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1043604 usgovsec:hasCIK 1043604
+_usgovcik:1043604 to:label "JUNIPER NETWORKS INC"
+_usgovcik:1043604 usgovsec:hasName "JUNIPER NETWORKS INC"
+_usgovcik:1043961 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1043961 usgovsec:hasCIK 1043961
+_usgovcik:1043961 to:label "TRANSGENOMIC INC"
+_usgovcik:1043961 usgovsec:hasName "TRANSGENOMIC INC"
+_usgovcik:1045425 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1045425 usgovsec:hasCIK 1045425
+_usgovcik:1045425 to:label "RAIT Financial Trust"
+_usgovcik:1045425 usgovsec:hasName "RAIT Financial Trust"
+_usgovcik:1045609 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1045609 usgovsec:hasCIK 1045609
+_usgovcik:1045609 to:label "Prologis, Inc."
+_usgovcik:1045609 usgovsec:hasName "Prologis, Inc."
+_usgovcik:1045610 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1045610 usgovsec:hasCIK 1045610
+_usgovcik:1045610 to:label "Prologis, L.P."
+_usgovcik:1045610 usgovsec:hasName "Prologis, L.P."
+_usgovcik:1047127 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1047127 usgovsec:hasCIK 1047127
+_usgovcik:1047127 to:label "AMKOR TECHNOLOGY, INC."
+_usgovcik:1047127 usgovsec:hasName "AMKOR TECHNOLOGY, INC."
+_usgovcik:1048789 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1048789 usgovsec:hasCIK 1048789
+_usgovcik:1048789 to:label "FelCor Lodging LP"
+_usgovcik:1048789 usgovsec:hasName "FelCor Lodging LP"
+_usgovcik:104889 to:type usgovsec:SECRegulatedEntity
+_usgovcik:104889 usgovsec:hasCIK 104889
+_usgovcik:104889 to:label "Graham Holdings Co"
+_usgovcik:104889 usgovsec:hasName "Graham Holdings Co"
+COMMIT
+START_TRANSACTION
+_usgovcik:1048911 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1048911 usgovsec:hasCIK 1048911
+_usgovcik:1048911 to:label "FEDEX CORP"
+_usgovcik:1048911 usgovsec:hasName "FEDEX CORP"
+_usgovcik:1051512 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1051512 usgovsec:hasCIK 1051512
+_usgovcik:1051512 to:label "TELEPHONE & DATA SYSTEMS INC /DE/"
+_usgovcik:1051512 usgovsec:hasName "TELEPHONE & DATA SYSTEMS INC /DE/"
+_usgovcik:1052100 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1052100 usgovsec:hasCIK 1052100
+_usgovcik:1052100 to:label "WADDELL & REED FINANCIAL INC"
+_usgovcik:1052100 usgovsec:hasName "WADDELL & REED FINANCIAL INC"
+_usgovcik:1053059 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1053059 usgovsec:hasCIK 1053059
+_usgovcik:1053059 to:label "ESSEX PORTFOLIO LP"
+_usgovcik:1053059 usgovsec:hasName "ESSEX PORTFOLIO LP"
+_usgovcik:1054721 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1054721 usgovsec:hasCIK 1054721
+_usgovcik:1054721 to:label "BSQUARE CORP /WA"
+_usgovcik:1054721 usgovsec:hasName "BSQUARE CORP /WA"
+_usgovcik:1056288 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1056288 usgovsec:hasCIK 1056288
+_usgovcik:1056288 to:label "FEDERATED INVESTORS INC /PA/"
+_usgovcik:1056288 usgovsec:hasName "FEDERATED INVESTORS INC /PA/"
+_usgovcik:1057352 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1057352 usgovsec:hasCIK 1057352
+_usgovcik:1057352 to:label "COSTAR GROUP INC"
+_usgovcik:1057352 usgovsec:hasName "COSTAR GROUP INC"
+_usgovcik:1059262 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1059262 usgovsec:hasCIK 1059262
+_usgovcik:1059262 to:label "SP Plus Corp"
+_usgovcik:1059262 usgovsec:hasName "SP Plus Corp"
+_usgovcik:1059556 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1059556 usgovsec:hasCIK 1059556
+_usgovcik:1059556 to:label "MOODYS CORP /DE/"
+_usgovcik:1059556 usgovsec:hasName "MOODYS CORP /DE/"
+_usgovcik:1059784 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1059784 usgovsec:hasCIK 1059784
+_usgovcik:1059784 to:label "GENEREX BIOTECHNOLOGY CORP"
+_usgovcik:1059784 usgovsec:hasName "GENEREX BIOTECHNOLOGY CORP"
+_usgovcik:1061219 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1061219 usgovsec:hasCIK 1061219
+_usgovcik:1061219 to:label "ENTERPRISE PRODUCTS PARTNERS L P"
+_usgovcik:1061219 usgovsec:hasName "ENTERPRISE PRODUCTS PARTNERS L P"
+_usgovcik:1061937 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1061937 usgovsec:hasCIK 1061937
+_usgovcik:1061937 to:label "HOST HOTELS & RESORTS L.P."
+_usgovcik:1061937 usgovsec:hasName "HOST HOTELS & RESORTS L.P."
+_usgovcik:1063344 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1063344 usgovsec:hasCIK 1063344
+_usgovcik:1063344 to:label "HERSHA HOSPITALITY TRUST"
+_usgovcik:1063344 usgovsec:hasName "HERSHA HOSPITALITY TRUST"
+_usgovcik:1063761 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1063761 usgovsec:hasCIK 1063761
+_usgovcik:1063761 to:label "SIMON PROPERTY GROUP INC /DE/"
+_usgovcik:1063761 usgovsec:hasName "SIMON PROPERTY GROUP INC /DE/"
+_usgovcik:106455 to:type usgovsec:SECRegulatedEntity
+_usgovcik:106455 usgovsec:hasCIK 106455
+_usgovcik:106455 to:label "WESTMORELAND COAL Co"
+_usgovcik:106455 usgovsec:hasName "WESTMORELAND COAL Co"
+_usgovcik:106535 to:type usgovsec:SECRegulatedEntity
+_usgovcik:106535 usgovsec:hasCIK 106535
+_usgovcik:106535 to:label "WEYERHAEUSER CO"
+_usgovcik:106535 usgovsec:hasName "WEYERHAEUSER CO"
+_usgovcik:1070750 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1070750 usgovsec:hasCIK 1070750
+_usgovcik:1070750 to:label "HOST HOTELS & RESORTS, INC."
+_usgovcik:1070750 usgovsec:hasName "HOST HOTELS & RESORTS, INC."
+_usgovcik:1070985 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1070985 usgovsec:hasCIK 1070985
+_usgovcik:1070985 to:label "CoreCivic, Inc."
+_usgovcik:1070985 usgovsec:hasName "CoreCivic, Inc."
+_usgovcik:1071760 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1071760 usgovsec:hasCIK 1071760
+_usgovcik:1071760 to:label "ECOSPHERE TECHNOLOGIES INC"
+_usgovcik:1071760 usgovsec:hasName "ECOSPHERE TECHNOLOGIES INC"
+_usgovcik:107263 to:type usgovsec:SECRegulatedEntity
+_usgovcik:107263 usgovsec:hasCIK 107263
+_usgovcik:107263 to:label "WILLIAMS COMPANIES INC"
+_usgovcik:107263 usgovsec:hasName "WILLIAMS COMPANIES INC"
+_usgovcik:1077370 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1077370 usgovsec:hasCIK 1077370
+_usgovcik:1077370 to:label "Prism Technologies Group, Inc."
+_usgovcik:1077370 usgovsec:hasName "Prism Technologies Group, Inc."
+_usgovcik:107832 to:type usgovsec:SECRegulatedEntity
+_usgovcik:107832 usgovsec:hasCIK 107832
+_usgovcik:107832 to:label "WISCONSIN POWER & LIGHT CO"
+_usgovcik:107832 usgovsec:hasName "WISCONSIN POWER & LIGHT CO"
+_usgovcik:1086600 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1086600 usgovsec:hasCIK 1086600
+_usgovcik:1086600 to:label "ALLIANCE RESOURCE PARTNERS LP"
+_usgovcik:1086600 usgovsec:hasName "ALLIANCE RESOURCE PARTNERS LP"
+_usgovcik:1089907 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1089907 usgovsec:hasCIK 1089907
+_usgovcik:1089907 to:label "SWK Holdings Corp"
+_usgovcik:1089907 usgovsec:hasName "SWK Holdings Corp"
+_usgovcik:1090425 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1090425 usgovsec:hasCIK 1090425
+_usgovcik:1090425 to:label "LAMAR ADVERTISING CO/NEW"
+_usgovcik:1090425 usgovsec:hasName "LAMAR ADVERTISING CO/NEW"
+_usgovcik:1091748 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1091748 usgovsec:hasCIK 1091748
+_usgovcik:1091748 to:label "Argo Group International Holdings, Ltd."
+_usgovcik:1091748 usgovsec:hasName "Argo Group International Holdings, Ltd."
+_usgovcik:1093691 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1093691 usgovsec:hasCIK 1093691
+_usgovcik:1093691 to:label "PLUG POWER INC"
+_usgovcik:1093691 usgovsec:hasName "PLUG POWER INC"
+_usgovcik:1094093 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1094093 usgovsec:hasCIK 1094093
+_usgovcik:1094093 to:label "PROGRESS ENERGY INC"
+_usgovcik:1094093 usgovsec:hasName "PROGRESS ENERGY INC"
+_usgovcik:1094348 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1094348 usgovsec:hasCIK 1094348
+_usgovcik:1094348 to:label "Mattersight Corp"
+_usgovcik:1094348 usgovsec:hasName "Mattersight Corp"
+_usgovcik:1095651 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1095651 usgovsec:hasCIK 1095651
+_usgovcik:1095651 to:label "ISTAR INC."
+_usgovcik:1095651 usgovsec:hasName "ISTAR INC."
+_usgovcik:1095996 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1095996 usgovsec:hasCIK 1095996
+_usgovcik:1095996 to:label "WILLIAM LYON HOMES"
+_usgovcik:1095996 usgovsec:hasName "WILLIAM LYON HOMES"
+_usgovcik:1096343 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1096343 usgovsec:hasCIK 1096343
+_usgovcik:1096343 to:label "MARKEL CORP"
+_usgovcik:1096343 usgovsec:hasName "MARKEL CORP"
+_usgovcik:1099590 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1099590 usgovsec:hasCIK 1099590
+_usgovcik:1099590 to:label "MERCADOLIBRE INC"
+_usgovcik:1099590 usgovsec:hasName "MERCADOLIBRE INC"
+_usgovcik:1101680 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1101680 usgovsec:hasCIK 1101680
+_usgovcik:1101680 to:label "DASAN ZHONE SOLUTIONS INC"
+_usgovcik:1101680 usgovsec:hasName "DASAN ZHONE SOLUTIONS INC"
+_usgovcik:1102541 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1102541 usgovsec:hasCIK 1102541
+_usgovcik:1102541 to:label "EarthLink Holdings Corp."
+_usgovcik:1102541 usgovsec:hasName "EarthLink Holdings Corp."
+_usgovcik:1103982 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1103982 usgovsec:hasCIK 1103982
+_usgovcik:1103982 to:label "Mondelez International, Inc."
+_usgovcik:1103982 usgovsec:hasName "Mondelez International, Inc."
+_usgovcik:1107843 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1107843 usgovsec:hasCIK 1107843
+_usgovcik:1107843 to:label "QUALYS, INC."
+_usgovcik:1107843 usgovsec:hasName "QUALYS, INC."
+_usgovcik:1108046 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1108046 usgovsec:hasCIK 1108046
+_usgovcik:1108046 to:label "AlumiFuel Power Corp"
+_usgovcik:1108046 usgovsec:hasName "AlumiFuel Power Corp"
+_usgovcik:1108109 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1108109 usgovsec:hasCIK 1108109
+_usgovcik:1108109 to:label "COMMUNITY HEALTH SYSTEMS INC"
+_usgovcik:1108109 usgovsec:hasName "COMMUNITY HEALTH SYSTEMS INC"
+_usgovcik:1108236 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1108236 usgovsec:hasCIK 1108236
+_usgovcik:1108236 to:label "AMERICAN RIVER BANKSHARES"
+_usgovcik:1108236 usgovsec:hasName "AMERICAN RIVER BANKSHARES"
+_usgovcik:1116463 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1116463 usgovsec:hasCIK 1116463
+_usgovcik:1116463 to:label "ORASURE TECHNOLOGIES INC"
+_usgovcik:1116463 usgovsec:hasName "ORASURE TECHNOLOGIES INC"
+_usgovcik:1116942 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1116942 usgovsec:hasCIK 1116942
+_usgovcik:1116942 to:label "TTM TECHNOLOGIES INC"
+_usgovcik:1116942 usgovsec:hasName "TTM TECHNOLOGIES INC"
+_usgovcik:1122904 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1122904 usgovsec:hasCIK 1122904
+_usgovcik:1122904 to:label "NETGEAR, INC"
+_usgovcik:1122904 usgovsec:hasName "NETGEAR, INC"
+_usgovcik:1123852 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1123852 usgovsec:hasCIK 1123852
+_usgovcik:1123852 to:label "NORTHERN STATES POWER CO"
+_usgovcik:1123852 usgovsec:hasName "NORTHERN STATES POWER CO"
+_usgovcik:1123979 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1123979 usgovsec:hasCIK 1123979
+_usgovcik:1123979 to:label "SENOMYX INC"
+_usgovcik:1123979 usgovsec:hasName "SENOMYX INC"
+_usgovcik:1124610 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1124610 usgovsec:hasCIK 1124610
+_usgovcik:1124610 to:label "VMWARE, INC."
+_usgovcik:1124610 usgovsec:hasName "VMWARE, INC."
+_usgovcik:1130310 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1130310 usgovsec:hasCIK 1130310
+_usgovcik:1130310 to:label "CENTERPOINT ENERGY INC"
+_usgovcik:1130310 usgovsec:hasName "CENTERPOINT ENERGY INC"
+_usgovcik:1131227 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1131227 usgovsec:hasCIK 1131227
+_usgovcik:1131227 to:label "HORNBECK OFFSHORE SERVICES INC /LA"
+_usgovcik:1131227 usgovsec:hasName "HORNBECK OFFSHORE SERVICES INC /LA"
+_usgovcik:1135856 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1135856 usgovsec:hasCIK 1135856
+_usgovcik:1135856 to:label "NATIONWIDE PRIVATE PLACEMENT VARIABLE ACCOUNT"
+_usgovcik:1135856 usgovsec:hasName "NATIONWIDE PRIVATE PLACEMENT VARIABLE ACCOUNT"
+_usgovcik:1139812 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1139812 usgovsec:hasCIK 1139812
+_usgovcik:1139812 to:label "MB FINANCIAL INC /MD"
+_usgovcik:1139812 usgovsec:hasName "MB FINANCIAL INC /MD"
+COMMIT
+START_TRANSACTION
+_usgovcik:1158172 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1158172 usgovsec:hasCIK 1158172
+_usgovcik:1158172 to:label "COMSCORE, INC."
+_usgovcik:1158172 usgovsec:hasName "COMSCORE, INC."
+_usgovcik:1158324 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1158324 usgovsec:hasCIK 1158324
+_usgovcik:1158324 to:label "COGENT COMMUNICATIONS HOLDINGS, INC."
+_usgovcik:1158324 usgovsec:hasName "COGENT COMMUNICATIONS HOLDINGS, INC."
+_usgovcik:1158659 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1158659 usgovsec:hasCIK 1158659
+_usgovcik:1158659 to:label "PSEG POWER LLC"
+_usgovcik:1158659 usgovsec:hasName "PSEG POWER LLC"
+_usgovcik:1159275 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1159275 usgovsec:hasCIK 1159275
+_usgovcik:1159275 to:label "KIWA BIO-TECH PRODUCTS GROUP CORP"
+_usgovcik:1159275 usgovsec:hasName "KIWA BIO-TECH PRODUCTS GROUP CORP"
+_usgovcik:1161154 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1161154 usgovsec:hasCIK 1161154
+_usgovcik:1161154 to:label "SUNOCO LOGISTICS PARTNERS L.P."
+_usgovcik:1161154 usgovsec:hasName "SUNOCO LOGISTICS PARTNERS L.P."
+_usgovcik:1161728 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1161728 usgovsec:hasCIK 1161728
+_usgovcik:1161728 to:label "MGE ENERGY INC"
+_usgovcik:1161728 usgovsec:hasName "MGE ENERGY INC"
+_usgovcik:1166126 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1166126 usgovsec:hasCIK 1166126
+_usgovcik:1166126 to:label "J C PENNEY CO INC"
+_usgovcik:1166126 usgovsec:hasName "J C PENNEY CO INC"
+_usgovcik:1168054 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1168054 usgovsec:hasCIK 1168054
+_usgovcik:1168054 to:label "CIMAREX ENERGY CO"
+_usgovcik:1168054 usgovsec:hasName "CIMAREX ENERGY CO"
+_usgovcik:1172052 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1172052 usgovsec:hasCIK 1172052
+_usgovcik:1172052 to:label "SAFETY INSURANCE GROUP INC"
+_usgovcik:1172052 usgovsec:hasName "SAFETY INSURANCE GROUP INC"
+_usgovcik:1173431 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1173431 usgovsec:hasCIK 1173431
+_usgovcik:1173431 to:label "TD AMERITRADE HOLDING CORP"
+_usgovcik:1173431 usgovsec:hasName "TD AMERITRADE HOLDING CORP"
+_usgovcik:1174922 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1174922 usgovsec:hasCIK 1174922
+_usgovcik:1174922 to:label "WYNN RESORTS LTD"
+_usgovcik:1174922 usgovsec:hasName "WYNN RESORTS LTD"
+_usgovcik:1175505 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1175505 usgovsec:hasCIK 1175505
+_usgovcik:1175505 to:label "FIVE PRIME THERAPEUTICS INC"
+_usgovcik:1175505 usgovsec:hasName "FIVE PRIME THERAPEUTICS INC"
+_usgovcik:1176948 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1176948 usgovsec:hasCIK 1176948
+_usgovcik:1176948 to:label "ARES MANAGEMENT LP"
+_usgovcik:1176948 usgovsec:hasName "ARES MANAGEMENT LP"
+_usgovcik:1177702 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1177702 usgovsec:hasCIK 1177702
+_usgovcik:1177702 to:label "SAIA INC"
+_usgovcik:1177702 usgovsec:hasName "SAIA INC"
+_usgovcik:1179755 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1179755 usgovsec:hasCIK 1179755
+_usgovcik:1179755 to:label "ENDURANCE SPECIALTY HOLDINGS LTD"
+_usgovcik:1179755 usgovsec:hasName "ENDURANCE SPECIALTY HOLDINGS LTD"
+_usgovcik:1180638 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1180638 usgovsec:hasCIK 1180638
+_usgovcik:1180638 to:label "WYNN LAS VEGAS LLC"
+_usgovcik:1180638 usgovsec:hasName "WYNN LAS VEGAS LLC"
+_usgovcik:1196501 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1196501 usgovsec:hasCIK 1196501
+_usgovcik:1196501 to:label "HMS HOLDINGS CORP"
+_usgovcik:1196501 usgovsec:hasName "HMS HOLDINGS CORP"
+_usgovcik:1206264 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1206264 usgovsec:hasCIK 1206264
+_usgovcik:1206264 to:label "TEMPUR SEALY INTERNATIONAL, INC."
+_usgovcik:1206264 usgovsec:hasName "TEMPUR SEALY INTERNATIONAL, INC."
+_usgovcik:1207074 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1207074 usgovsec:hasCIK 1207074
+_usgovcik:1207074 to:label "VIRTUSA CORP"
+_usgovcik:1207074 usgovsec:hasName "VIRTUSA CORP"
+_usgovcik:1208208 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1208208 usgovsec:hasCIK 1208208
+_usgovcik:1208208 to:label "DIGITALGLOBE, INC."
+_usgovcik:1208208 usgovsec:hasName "DIGITALGLOBE, INC."
+_usgovcik:1211805 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1211805 usgovsec:hasCIK 1211805
+_usgovcik:1211805 to:label "My Size, Inc."
+_usgovcik:1211805 usgovsec:hasName "My Size, Inc."
+_usgovcik:1219601 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1219601 usgovsec:hasCIK 1219601
+_usgovcik:1219601 to:label "CROWN HOLDINGS INC"
+_usgovcik:1219601 usgovsec:hasName "CROWN HOLDINGS INC"
+_usgovcik:1228627 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1228627 usgovsec:hasCIK 1228627
+_usgovcik:1228627 to:label "REXAHN PHARMACEUTICALS, INC."
+_usgovcik:1228627 usgovsec:hasName "REXAHN PHARMACEUTICALS, INC."
+_usgovcik:1230245 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1230245 usgovsec:hasCIK 1230245
+_usgovcik:1230245 to:label "PIPER JAFFRAY COMPANIES"
+_usgovcik:1230245 usgovsec:hasName "PIPER JAFFRAY COMPANIES"
+_usgovcik:1232582 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1232582 usgovsec:hasCIK 1232582
+_usgovcik:1232582 to:label "ASHFORD HOSPITALITY TRUST INC"
+_usgovcik:1232582 usgovsec:hasName "ASHFORD HOSPITALITY TRUST INC"
+_usgovcik:1235010 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1235010 usgovsec:hasCIK 1235010
+_usgovcik:1235010 to:label "MOMENTA PHARMACEUTICALS INC"
+_usgovcik:1235010 usgovsec:hasName "MOMENTA PHARMACEUTICALS INC"
+_usgovcik:1235468 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1235468 usgovsec:hasCIK 1235468
+_usgovcik:1235468 to:label "LIQUIDITY SERVICES INC"
+_usgovcik:1235468 usgovsec:hasName "LIQUIDITY SERVICES INC"
+_usgovcik:1237746 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1237746 usgovsec:hasCIK 1237746
+_usgovcik:1237746 to:label "Endurance International Group Holdings, Inc."
+_usgovcik:1237746 usgovsec:hasName "Endurance International Group Holdings, Inc."
+_usgovcik:1254595 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1254595 usgovsec:hasCIK 1254595
+_usgovcik:1254595 to:label "FIRST POTOMAC REALTY TRUST"
+_usgovcik:1254595 usgovsec:hasName "FIRST POTOMAC REALTY TRUST"
+_usgovcik:1260221 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1260221 usgovsec:hasCIK 1260221
+_usgovcik:1260221 to:label "TransDigm Group INC"
+_usgovcik:1260221 usgovsec:hasName "TransDigm Group INC"
+_usgovcik:1265107 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1265107 usgovsec:hasCIK 1265107
+_usgovcik:1265107 to:label "MONITRONICS INTERNATIONAL INC"
+_usgovcik:1265107 usgovsec:hasName "MONITRONICS INTERNATIONAL INC"
+_usgovcik:1271214 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1271214 usgovsec:hasCIK 1271214
+_usgovcik:1271214 to:label "Intersect ENT, Inc."
+_usgovcik:1271214 usgovsec:hasName "Intersect ENT, Inc."
+_usgovcik:1273813 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1273813 usgovsec:hasCIK 1273813
+_usgovcik:1273813 to:label "ASSURED GUARANTY LTD"
+_usgovcik:1273813 usgovsec:hasName "ASSURED GUARANTY LTD"
+_usgovcik:1274494 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1274494 usgovsec:hasCIK 1274494
+_usgovcik:1274494 to:label "FIRST SOLAR, INC."
+_usgovcik:1274494 usgovsec:hasName "FIRST SOLAR, INC."
+_usgovcik:1276187 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1276187 usgovsec:hasCIK 1276187
+_usgovcik:1276187 to:label "Energy Transfer Equity, L.P."
+_usgovcik:1276187 usgovsec:hasName "Energy Transfer Equity, L.P."
+_usgovcik:1276520 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1276520 usgovsec:hasCIK 1276520
+_usgovcik:1276520 to:label "GENWORTH FINANCIAL INC"
+_usgovcik:1276520 usgovsec:hasName "GENWORTH FINANCIAL INC"
+_usgovcik:1277902 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1277902 usgovsec:hasCIK 1277902
+_usgovcik:1277902 to:label "MVB FINANCIAL CORP"
+_usgovcik:1277902 usgovsec:hasName "MVB FINANCIAL CORP"
+_usgovcik:1278680 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1278680 usgovsec:hasCIK 1278680
+_usgovcik:1278680 to:label "ISHARES GOLD TRUST"
+_usgovcik:1278680 usgovsec:hasName "ISHARES GOLD TRUST"
+_usgovcik:1281761 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1281761 usgovsec:hasCIK 1281761
+_usgovcik:1281761 to:label "REGIONS FINANCIAL CORP"
+_usgovcik:1281761 usgovsec:hasName "REGIONS FINANCIAL CORP"
+_usgovcik:1282266 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1282266 usgovsec:hasCIK 1282266
+_usgovcik:1282266 to:label "WINDSTREAM HOLDINGS, INC."
+_usgovcik:1282266 usgovsec:hasName "WINDSTREAM HOLDINGS, INC."
+_usgovcik:1283699 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1283699 usgovsec:hasCIK 1283699
+_usgovcik:1283699 to:label "T-Mobile US, Inc."
+_usgovcik:1283699 usgovsec:hasName "T-Mobile US, Inc."
+_usgovcik:1284143 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1284143 usgovsec:hasCIK 1284143
+_usgovcik:1284143 to:label "LEHMAN ABS CORP GOLDMAN SACHS CAP 1 SEC BACKED SER 2004-6"
+_usgovcik:1284143 usgovsec:hasName "LEHMAN ABS CORP GOLDMAN SACHS CAP 1 SEC BACKED SER 2004-6"
+_usgovcik:1284812 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1284812 usgovsec:hasCIK 1284812
+_usgovcik:1284812 to:label "COHEN & STEERS INC"
+_usgovcik:1284812 usgovsec:hasName "COHEN & STEERS INC"
+_usgovcik:1288750 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1288750 usgovsec:hasCIK 1288750
+_usgovcik:1288750 to:label "Timberline Resources Corp"
+_usgovcik:1288750 usgovsec:hasName "Timberline Resources Corp"
+_usgovcik:1289460 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1289460 usgovsec:hasCIK 1289460
+_usgovcik:1289460 to:label "Texas Roadhouse, Inc."
+_usgovcik:1289460 usgovsec:hasName "Texas Roadhouse, Inc."
+_usgovcik:1296435 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1296435 usgovsec:hasCIK 1296435
+_usgovcik:1296435 to:label "Neenah Paper Inc"
+_usgovcik:1296435 usgovsec:hasName "Neenah Paper Inc"
+_usgovcik:1297704 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1297704 usgovsec:hasCIK 1297704
+_usgovcik:1297704 to:label "OHA Investment Corp"
+_usgovcik:1297704 usgovsec:hasName "OHA Investment Corp"
+_usgovcik:1300514 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1300514 usgovsec:hasCIK 1300514
+_usgovcik:1300514 to:label "LAS VEGAS SANDS CORP"
+_usgovcik:1300514 usgovsec:hasName "LAS VEGAS SANDS CORP"
+_usgovcik:1308606 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1308606 usgovsec:hasCIK 1308606
+_usgovcik:1308606 to:label "SPIRIT REALTY CAPITAL, INC."
+_usgovcik:1308606 usgovsec:hasName "SPIRIT REALTY CAPITAL, INC."
+_usgovcik:1308711 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1308711 usgovsec:hasCIK 1308711
+_usgovcik:1308711 to:label "Behringer Harvard Opportunity REIT I, Inc."
+_usgovcik:1308711 usgovsec:hasName "Behringer Harvard Opportunity REIT I, Inc."
+COMMIT
+START_TRANSACTION
+_usgovcik:1309082 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1309082 usgovsec:hasCIK 1309082
+_usgovcik:1309082 to:label "CAMBER ENERGY, INC."
+_usgovcik:1309082 usgovsec:hasName "CAMBER ENERGY, INC."
+_usgovcik:1311230 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1311230 usgovsec:hasCIK 1311230
+_usgovcik:1311230 to:label "TerraVia Holdings, Inc."
+_usgovcik:1311230 usgovsec:hasName "TerraVia Holdings, Inc."
+_usgovcik:1311370 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1311370 usgovsec:hasCIK 1311370
+_usgovcik:1311370 to:label "Lazard Ltd"
+_usgovcik:1311370 usgovsec:hasName "Lazard Ltd"
+_usgovcik:1311605 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1311605 usgovsec:hasCIK 1311605
+_usgovcik:1311605 to:label "KLONDEX MINES LTD"
+_usgovcik:1311605 usgovsec:hasName "KLONDEX MINES LTD"
+_usgovcik:1314772 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1314772 usgovsec:hasCIK 1314772
+_usgovcik:1314772 to:label "Summer Infant, Inc."
+_usgovcik:1314772 usgovsec:hasName "Summer Infant, Inc."
+_usgovcik:1315257 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1315257 usgovsec:hasCIK 1315257
+_usgovcik:1315257 to:label "Koppers Holdings Inc."
+_usgovcik:1315257 usgovsec:hasName "Koppers Holdings Inc."
+_usgovcik:1318605 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1318605 usgovsec:hasCIK 1318605
+_usgovcik:1318605 to:label "Tesla, Inc."
+_usgovcik:1318605 usgovsec:hasName "Tesla, Inc."
+_usgovcik:1320767 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1320767 usgovsec:hasCIK 1320767
+_usgovcik:1320767 to:label "Revolutionary Concepts Inc"
+_usgovcik:1320767 usgovsec:hasName "Revolutionary Concepts Inc"
+_usgovcik:1325281 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1325281 usgovsec:hasCIK 1325281
+_usgovcik:1325281 to:label "KAPSTONE PAPER & PACKAGING CORP"
+_usgovcik:1325281 usgovsec:hasName "KAPSTONE PAPER & PACKAGING CORP"
+_usgovcik:1325814 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1325814 usgovsec:hasCIK 1325814
+_usgovcik:1325814 to:label "Federal Home Loan Bank of Des Moines"
+_usgovcik:1325814 usgovsec:hasName "Federal Home Loan Bank of Des Moines"
+_usgovcik:1325955 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1325955 usgovsec:hasCIK 1325955
+_usgovcik:1325955 to:label "Alon USA Energy, Inc."
+_usgovcik:1325955 usgovsec:hasName "Alon USA Energy, Inc."
+_usgovcik:1326160 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1326160 usgovsec:hasCIK 1326160
+_usgovcik:1326160 to:label "Duke Energy CORP"
+_usgovcik:1326160 usgovsec:hasName "Duke Energy CORP"
+_usgovcik:1327068 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1327068 usgovsec:hasCIK 1327068
+_usgovcik:1327068 to:label "United States Oil Fund, LP"
+_usgovcik:1327068 usgovsec:hasName "United States Oil Fund, LP"
+_usgovcik:1328581 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1328581 usgovsec:hasCIK 1328581
+_usgovcik:1328581 to:label "BOISE CASCADE Co"
+_usgovcik:1328581 usgovsec:hasName "BOISE CASCADE Co"
+_usgovcik:1330568 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1330568 usgovsec:hasCIK 1330568
+_usgovcik:1330568 to:label "iShares Silver Trust"
+_usgovcik:1330568 usgovsec:hasName "iShares Silver Trust"
+_usgovcik:1331520 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1331520 usgovsec:hasCIK 1331520
+_usgovcik:1331520 to:label "HOME BANCSHARES INC"
+_usgovcik:1331520 usgovsec:hasName "HOME BANCSHARES INC"
+_usgovcik:1332174 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1332174 usgovsec:hasCIK 1332174
+_usgovcik:1332174 to:label "iShares S&P GSCI Commodity-Indexed Trust"
+_usgovcik:1332174 usgovsec:hasName "iShares S&P GSCI Commodity-Indexed Trust"
+_usgovcik:1333493 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1333493 usgovsec:hasCIK 1333493
+_usgovcik:1333493 to:label "eHealth, Inc."
+_usgovcik:1333493 usgovsec:hasName "eHealth, Inc."
+_usgovcik:1336920 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1336920 usgovsec:hasCIK 1336920
+_usgovcik:1336920 to:label "Leidos Holdings, Inc."
+_usgovcik:1336920 usgovsec:hasName "Leidos Holdings, Inc."
+_usgovcik:1338065 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1338065 usgovsec:hasCIK 1338065
+_usgovcik:1338065 to:label "DCP Midstream, LP"
+_usgovcik:1338065 usgovsec:hasName "DCP Midstream, LP"
+_usgovcik:1340122 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1340122 usgovsec:hasCIK 1340122
+_usgovcik:1340122 to:label "Calumet Specialty Products Partners, L.P."
+_usgovcik:1340122 usgovsec:hasName "Calumet Specialty Products Partners, L.P."
+_usgovcik:1344596 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1344596 usgovsec:hasCIK 1344596
+_usgovcik:1344596 to:label "American Railcar Industries, Inc."
+_usgovcik:1344596 usgovsec:hasName "American Railcar Industries, Inc."
+_usgovcik:1344980 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1344980 usgovsec:hasCIK 1344980
+_usgovcik:1344980 to:label "Alliance Holdings GP, L.P."
+_usgovcik:1344980 usgovsec:hasName "Alliance Holdings GP, L.P."
+_usgovcik:1347185 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1347185 usgovsec:hasCIK 1347185
+_usgovcik:1347185 to:label "AFS SenSub Corp."
+_usgovcik:1347185 usgovsec:hasName "AFS SenSub Corp."
+_usgovcik:1348952 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1348952 usgovsec:hasCIK 1348952
+_usgovcik:1348952 to:label "Entergy Louisiana, LLC"
+_usgovcik:1348952 usgovsec:hasName "Entergy Louisiana, LLC"
+_usgovcik:1354174 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1354174 usgovsec:hasCIK 1354174
+_usgovcik:1354174 to:label "SBT Bancorp, Inc."
+_usgovcik:1354174 usgovsec:hasName "SBT Bancorp, Inc."
+_usgovcik:1355001 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1355001 usgovsec:hasCIK 1355001
+_usgovcik:1355001 to:label "REALOGY GROUP LLC"
+_usgovcik:1355001 usgovsec:hasName "REALOGY GROUP LLC"
+_usgovcik:1356104 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1356104 usgovsec:hasCIK 1356104
+_usgovcik:1356104 to:label "Mellanox Technologies, Ltd."
+_usgovcik:1356104 usgovsec:hasName "Mellanox Technologies, Ltd."
+_usgovcik:1357615 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1357615 usgovsec:hasCIK 1357615
+_usgovcik:1357615 to:label "KBR, INC."
+_usgovcik:1357615 usgovsec:hasName "KBR, INC."
+_usgovcik:1360901 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1360901 usgovsec:hasCIK 1360901
+_usgovcik:1360901 to:label "Evercore Partners Inc."
+_usgovcik:1360901 usgovsec:hasName "Evercore Partners Inc."
+_usgovcik:1362468 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1362468 usgovsec:hasCIK 1362468
+_usgovcik:1362468 to:label "Allegiant Travel CO"
+_usgovcik:1362468 usgovsec:hasName "Allegiant Travel CO"
+_usgovcik:1368514 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1368514 usgovsec:hasCIK 1368514
+_usgovcik:1368514 to:label "ADMA BIOLOGICS, INC."
+_usgovcik:1368514 usgovsec:hasName "ADMA BIOLOGICS, INC."
+_usgovcik:1370880 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1370880 usgovsec:hasCIK 1370880
+_usgovcik:1370880 to:label "FireEye, Inc."
+_usgovcik:1370880 usgovsec:hasName "FireEye, Inc."
+_usgovcik:1372414 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1372414 usgovsec:hasCIK 1372414
+_usgovcik:1372414 to:label "AEROHIVE NETWORKS, INC"
+_usgovcik:1372414 usgovsec:hasName "AEROHIVE NETWORKS, INC"
+_usgovcik:1373835 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1373835 usgovsec:hasCIK 1373835
+_usgovcik:1373835 to:label "Spectra Energy Corp."
+_usgovcik:1373835 usgovsec:hasName "Spectra Energy Corp."
+_usgovcik:1376227 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1376227 usgovsec:hasCIK 1376227
+_usgovcik:1376227 to:label "United States Natural Gas Fund, LP"
+_usgovcik:1376227 usgovsec:hasName "United States Natural Gas Fund, LP"
+_usgovcik:1377630 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1377630 usgovsec:hasCIK 1377630
+_usgovcik:1377630 to:label "National CineMedia, Inc."
+_usgovcik:1377630 usgovsec:hasName "National CineMedia, Inc."
+_usgovcik:1379041 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1379041 usgovsec:hasCIK 1379041
+_usgovcik:1379041 to:label "Employers Holdings, Inc."
+_usgovcik:1379041 usgovsec:hasName "Employers Holdings, Inc."
+_usgovcik:1379661 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1379661 usgovsec:hasCIK 1379661
+_usgovcik:1379661 to:label "Targa Resources Partners LP"
+_usgovcik:1379661 usgovsec:hasName "Targa Resources Partners LP"
+_usgovcik:1379895 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1379895 usgovsec:hasCIK 1379895
+_usgovcik:1379895 to:label "DYNEGY INC."
+_usgovcik:1379895 usgovsec:hasName "DYNEGY INC."
+_usgovcik:1381531 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1381531 usgovsec:hasCIK 1381531
+_usgovcik:1381531 to:label "Domtar CORP"
+_usgovcik:1381531 usgovsec:hasName "Domtar CORP"
+_usgovcik:1381668 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1381668 usgovsec:hasCIK 1381668
+_usgovcik:1381668 to:label "TFS Financial CORP"
+_usgovcik:1381668 usgovsec:hasName "TFS Financial CORP"
+_usgovcik:1382911 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1382911 usgovsec:hasCIK 1382911
+_usgovcik:1382911 to:label "Orexigen Therapeutics, Inc."
+_usgovcik:1382911 usgovsec:hasName "Orexigen Therapeutics, Inc."
+_usgovcik:1383650 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1383650 usgovsec:hasCIK 1383650
+_usgovcik:1383650 to:label "Cheniere Energy Partners, L.P."
+_usgovcik:1383650 usgovsec:hasName "Cheniere Energy Partners, L.P."
+_usgovcik:1385849 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1385849 usgovsec:hasCIK 1385849
+_usgovcik:1385849 to:label "ENERGY FUELS INC"
+_usgovcik:1385849 usgovsec:hasName "ENERGY FUELS INC"
+_usgovcik:1388195 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1388195 usgovsec:hasCIK 1388195
+_usgovcik:1388195 to:label "PharMerica CORP"
+_usgovcik:1388195 usgovsec:hasName "PharMerica CORP"
+_usgovcik:1389170 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1389170 usgovsec:hasCIK 1389170
+_usgovcik:1389170 to:label "Targa Resources Corp."
+_usgovcik:1389170 usgovsec:hasName "Targa Resources Corp."
+_usgovcik:1392091 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1392091 usgovsec:hasCIK 1392091
+_usgovcik:1392091 to:label "Blueknight Energy Partners, L.P."
+_usgovcik:1392091 usgovsec:hasName "Blueknight Energy Partners, L.P."
+_usgovcik:1393818 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1393818 usgovsec:hasCIK 1393818
+_usgovcik:1393818 to:label "Blackstone Group L.P."
+_usgovcik:1393818 usgovsec:hasName "Blackstone Group L.P."
+_usgovcik:1394074 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1394074 usgovsec:hasCIK 1394074
+_usgovcik:1394074 to:label "Spectra Energy Partners, LP"
+_usgovcik:1394074 usgovsec:hasName "Spectra Energy Partners, LP"
+COMMIT
+START_TRANSACTION
+_usgovcik:1395942 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1395942 usgovsec:hasCIK 1395942
+_usgovcik:1395942 to:label "KAR Auction Services, Inc."
+_usgovcik:1395942 usgovsec:hasName "KAR Auction Services, Inc."
+_usgovcik:1396009 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1396009 usgovsec:hasCIK 1396009
+_usgovcik:1396009 to:label "Vulcan Materials CO"
+_usgovcik:1396009 usgovsec:hasName "Vulcan Materials CO"
+_usgovcik:1396440 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1396440 usgovsec:hasCIK 1396440
+_usgovcik:1396440 to:label "Main Street Capital CORP"
+_usgovcik:1396440 usgovsec:hasName "Main Street Capital CORP"
+_usgovcik:1397911 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1397911 usgovsec:hasCIK 1397911
+_usgovcik:1397911 to:label "LPL Financial Holdings Inc."
+_usgovcik:1397911 usgovsec:hasName "LPL Financial Holdings Inc."
+_usgovcik:1398987 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1398987 usgovsec:hasCIK 1398987
+_usgovcik:1398987 to:label "REALOGY HOLDINGS CORP."
+_usgovcik:1398987 usgovsec:hasName "REALOGY HOLDINGS CORP."
+_usgovcik:1400482 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1400482 usgovsec:hasCIK 1400482
+_usgovcik:1400482 to:label "KUBOTA PHARMACEUTICAL HOLDINGS CO LTD"
+_usgovcik:1400482 usgovsec:hasName "KUBOTA PHARMACEUTICAL HOLDINGS CO LTD"
+_usgovcik:1401680 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1401680 usgovsec:hasCIK 1401680
+_usgovcik:1401680 to:label "Cornerstone OnDemand Inc"
+_usgovcik:1401680 usgovsec:hasName "Cornerstone OnDemand Inc"
+_usgovcik:1403431 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1403431 usgovsec:hasCIK 1403431
+_usgovcik:1403431 to:label "Heritage-Crystal Clean, Inc."
+_usgovcik:1403431 usgovsec:hasName "Heritage-Crystal Clean, Inc."
+_usgovcik:1404912 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1404912 usgovsec:hasCIK 1404912
+_usgovcik:1404912 to:label "KKR & Co. L.P."
+_usgovcik:1404912 usgovsec:hasName "KKR & Co. L.P."
+_usgovcik:1408100 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1408100 usgovsec:hasCIK 1408100
+_usgovcik:1408100 to:label "Kennedy-Wilson Holdings, Inc."
+_usgovcik:1408100 usgovsec:hasName "Kennedy-Wilson Holdings, Inc."
+_usgovcik:1408198 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1408198 usgovsec:hasCIK 1408198
+_usgovcik:1408198 to:label "MSCI Inc."
+_usgovcik:1408198 usgovsec:hasName "MSCI Inc."
+_usgovcik:1408299 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1408299 usgovsec:hasCIK 1408299
+_usgovcik:1408299 to:label "Entia Biosciences, Inc."
+_usgovcik:1408299 usgovsec:hasName "Entia Biosciences, Inc."
+_usgovcik:1410939 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1410939 usgovsec:hasCIK 1410939
+_usgovcik:1410939 to:label "Ophthotech Corp."
+_usgovcik:1410939 usgovsec:hasName "Ophthotech Corp."
+_usgovcik:1411207 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1411207 usgovsec:hasCIK 1411207
+_usgovcik:1411207 to:label "Allison Transmission Holdings Inc"
+_usgovcik:1411207 usgovsec:hasName "Allison Transmission Holdings Inc"
+_usgovcik:1412232 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1412232 usgovsec:hasCIK 1412232
+_usgovcik:1412232 to:label "VWR Corp"
+_usgovcik:1412232 usgovsec:hasName "VWR Corp"
+_usgovcik:1412486 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1412486 usgovsec:hasCIK 1412486
+_usgovcik:1412486 to:label "Cocrystal Pharma, Inc."
+_usgovcik:1412486 usgovsec:hasName "Cocrystal Pharma, Inc."
+_usgovcik:1415301 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1415301 usgovsec:hasCIK 1415301
+_usgovcik:1415301 to:label "Del Frisco's Restaurant Group, Inc."
+_usgovcik:1415301 usgovsec:hasName "Del Frisco's Restaurant Group, Inc."
+_usgovcik:1415404 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1415404 usgovsec:hasCIK 1415404
+_usgovcik:1415404 to:label "EchoStar CORP"
+_usgovcik:1415404 usgovsec:hasName "EchoStar CORP"
+_usgovcik:1418133 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1418133 usgovsec:hasCIK 1418133
+_usgovcik:1418133 to:label "Biostar Pharmaceuticals, Inc."
+_usgovcik:1418133 usgovsec:hasName "Biostar Pharmaceuticals, Inc."
+_usgovcik:1419793 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1419793 usgovsec:hasCIK 1419793
+_usgovcik:1419793 to:label "ORIGINCLEAR, INC."
+_usgovcik:1419793 usgovsec:hasName "ORIGINCLEAR, INC."
+_usgovcik:1420720 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1420720 usgovsec:hasCIK 1420720
+_usgovcik:1420720 to:label "iBio, Inc."
+_usgovcik:1420720 usgovsec:hasName "iBio, Inc."
+_usgovcik:1426945 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1426945 usgovsec:hasCIK 1426945
+_usgovcik:1426945 to:label "Echo Global Logistics, Inc."
+_usgovcik:1426945 usgovsec:hasName "Echo Global Logistics, Inc."
+_usgovcik:1427012 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1427012 usgovsec:hasCIK 1427012
+_usgovcik:1427012 to:label "PARK SHORE OPPORTUNITY OFFSHORE FUND LTD"
+_usgovcik:1427012 usgovsec:hasName "PARK SHORE OPPORTUNITY OFFSHORE FUND LTD"
+_usgovcik:1427437 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1427437 usgovsec:hasCIK 1427437
+_usgovcik:1427437 to:label "Entergy Texas, Inc."
+_usgovcik:1427437 usgovsec:hasName "Entergy Texas, Inc."
+_usgovcik:1428522 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1428522 usgovsec:hasCIK 1428522
+_usgovcik:1428522 to:label "Radius Health, Inc."
+_usgovcik:1428522 usgovsec:hasName "Radius Health, Inc."
+_usgovcik:1428875 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1428875 usgovsec:hasCIK 1428875
+_usgovcik:1428875 to:label "SERVICEMASTER GLOBAL HOLDINGS INC"
+_usgovcik:1428875 usgovsec:hasName "SERVICEMASTER GLOBAL HOLDINGS INC"
+_usgovcik:1430602 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1430602 usgovsec:hasCIK 1430602
+_usgovcik:1430602 to:label "Scripps Networks Interactive, Inc."
+_usgovcik:1430602 usgovsec:hasName "Scripps Networks Interactive, Inc."
+_usgovcik:1431934 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1431934 usgovsec:hasCIK 1431934
+_usgovcik:1431934 to:label "OWC Pharmaceutical Research Corp."
+_usgovcik:1431934 usgovsec:hasName "OWC Pharmaceutical Research Corp."
+_usgovcik:1434729 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1434729 usgovsec:hasCIK 1434729
+_usgovcik:1434729 to:label "HSN, Inc."
+_usgovcik:1434729 usgovsec:hasName "HSN, Inc."
+_usgovcik:1437106 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1437106 usgovsec:hasCIK 1437106
+_usgovcik:1437106 to:label "Ascent Capital Group, Inc."
+_usgovcik:1437106 usgovsec:hasName "Ascent Capital Group, Inc."
+_usgovcik:1439095 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1439095 usgovsec:hasCIK 1439095
+_usgovcik:1439095 to:label "MRC GLOBAL INC."
+_usgovcik:1439095 usgovsec:hasName "MRC GLOBAL INC."
+_usgovcik:1440799 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1440799 usgovsec:hasCIK 1440799
+_usgovcik:1440799 to:label "MMEX Resources Corp"
+_usgovcik:1440799 usgovsec:hasName "MMEX Resources Corp"
+_usgovcik:1446714 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1446714 usgovsec:hasCIK 1446714
+_usgovcik:1446714 to:label "Macquarie Equipment Leasing Fund, LLC"
+_usgovcik:1446714 usgovsec:hasName "Macquarie Equipment Leasing Fund, LLC"
+_usgovcik:1448705 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1448705 usgovsec:hasCIK 1448705
+_usgovcik:1448705 to:label "PayMeOn, Inc."
+_usgovcik:1448705 usgovsec:hasName "PayMeOn, Inc."
+_usgovcik:1456212 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1456212 usgovsec:hasCIK 1456212
+_usgovcik:1456212 to:label "GROTE MOLEN INC"
+_usgovcik:1456212 usgovsec:hasName "GROTE MOLEN INC"
+_usgovcik:1458891 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1458891 usgovsec:hasCIK 1458891
+_usgovcik:1458891 to:label "Noble Corp plc"
+_usgovcik:1458891 usgovsec:hasName "Noble Corp plc"
+_usgovcik:1459417 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1459417 usgovsec:hasCIK 1459417
+_usgovcik:1459417 to:label "2U, Inc."
+_usgovcik:1459417 usgovsec:hasName "2U, Inc."
+_usgovcik:1461993 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1461993 usgovsec:hasCIK 1461993
+_usgovcik:1461993 to:label "CEMPRA, INC."
+_usgovcik:1461993 usgovsec:hasName "CEMPRA, INC."
+_usgovcik:1462120 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1462120 usgovsec:hasCIK 1462120
+_usgovcik:1462120 to:label "Live Oak Bancshares, Inc."
+_usgovcik:1462120 usgovsec:hasName "Live Oak Bancshares, Inc."
+_usgovcik:1470205 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1470205 usgovsec:hasCIK 1470205
+_usgovcik:1470205 to:label "County Bancorp, Inc."
+_usgovcik:1470205 usgovsec:hasName "County Bancorp, Inc."
+_usgovcik:1474735 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1474735 usgovsec:hasCIK 1474735
+_usgovcik:1474735 to:label "GENERAC HOLDINGS INC."
+_usgovcik:1474735 usgovsec:hasName "GENERAC HOLDINGS INC."
+_usgovcik:1475841 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1475841 usgovsec:hasCIK 1475841
+_usgovcik:1475841 to:label "National Bank Holdings Corp"
+_usgovcik:1475841 usgovsec:hasName "National Bank Holdings Corp"
+_usgovcik:1476246 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1476246 usgovsec:hasCIK 1476246
+_usgovcik:1476246 to:label "Tropicana Entertainment Inc."
+_usgovcik:1476246 usgovsec:hasName "Tropicana Entertainment Inc."
+_usgovcik:1476651 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1476651 usgovsec:hasCIK 1476651
+_usgovcik:1476651 to:label "FCB FINANCIAL HOLDINGS, INC."
+_usgovcik:1476651 usgovsec:hasName "FCB FINANCIAL HOLDINGS, INC."
+_usgovcik:1478242 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1478242 usgovsec:hasCIK 1478242
+_usgovcik:1478242 to:label "Quintiles IMS Holdings, Inc."
+_usgovcik:1478242 usgovsec:hasName "Quintiles IMS Holdings, Inc."
+_usgovcik:1478726 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1478726 usgovsec:hasCIK 1478726
+_usgovcik:1478726 to:label "CHARTER FINANCIAL CORP"
+_usgovcik:1478726 usgovsec:hasName "CHARTER FINANCIAL CORP"
+_usgovcik:1481832 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1481832 usgovsec:hasCIK 1481832
+_usgovcik:1481832 to:label "PREFERRED APARTMENT COMMUNITIES INC"
+_usgovcik:1481832 usgovsec:hasName "PREFERRED APARTMENT COMMUNITIES INC"
+_usgovcik:1484504 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1484504 usgovsec:hasCIK 1484504
+_usgovcik:1484504 to:label "Gigamon Inc."
+_usgovcik:1484504 usgovsec:hasName "Gigamon Inc."
+_usgovcik:1487371 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1487371 usgovsec:hasCIK 1487371
+_usgovcik:1487371 to:label "GenMark Diagnostics, Inc."
+_usgovcik:1487371 usgovsec:hasName "GenMark Diagnostics, Inc."
+_usgovcik:1487712 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1487712 usgovsec:hasCIK 1487712
+_usgovcik:1487712 to:label "AIR LEASE CORP"
+_usgovcik:1487712 usgovsec:hasName "AIR LEASE CORP"
+COMMIT
+START_TRANSACTION
+_usgovcik:1487906 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1487906 usgovsec:hasCIK 1487906
+_usgovcik:1487906 to:label "CACHET FINANCIAL SOLUTIONS, INC."
+_usgovcik:1487906 usgovsec:hasName "CACHET FINANCIAL SOLUTIONS, INC."
+_usgovcik:1488602 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1488602 usgovsec:hasCIK 1488602
+_usgovcik:1488602 to:label "TerraLUX, Inc."
+_usgovcik:1488602 usgovsec:hasName "TerraLUX, Inc."
+_usgovcik:1489136 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1489136 usgovsec:hasCIK 1489136
+_usgovcik:1489136 to:label "SemGroup Corp"
+_usgovcik:1489136 usgovsec:hasName "SemGroup Corp"
+_usgovcik:1490165 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1490165 usgovsec:hasCIK 1490165
+_usgovcik:1490165 to:label "ERICKSON INC."
+_usgovcik:1490165 usgovsec:hasName "ERICKSON INC."
+_usgovcik:1494904 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1494904 usgovsec:hasCIK 1494904
+_usgovcik:1494904 to:label "Global Indemnity Ltd"
+_usgovcik:1494904 usgovsec:hasName "Global Indemnity Ltd"
+_usgovcik:1497275 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1497275 usgovsec:hasCIK 1497275
+_usgovcik:1497275 to:label "STATE BANK FINANCIAL CORP"
+_usgovcik:1497275 usgovsec:hasName "STATE BANK FINANCIAL CORP"
+_usgovcik:1497770 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1497770 usgovsec:hasCIK 1497770
+_usgovcik:1497770 to:label "Walker & Dunlop, Inc."
+_usgovcik:1497770 usgovsec:hasName "Walker & Dunlop, Inc."
+_usgovcik:1499200 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1499200 usgovsec:hasCIK 1499200
+_usgovcik:1499200 to:label "Sabine Pass Liquefaction, LLC"
+_usgovcik:1499200 usgovsec:hasName "Sabine Pass Liquefaction, LLC"
+_usgovcik:1502966 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1502966 usgovsec:hasCIK 1502966
+_usgovcik:1502966 to:label DigiPath,Inc.
+_usgovcik:1502966 usgovsec:hasName DigiPath,Inc.
+_usgovcik:1505732 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1505732 usgovsec:hasCIK 1505732
+_usgovcik:1505732 to:label "Bankwell Financial Group, Inc."
+_usgovcik:1505732 usgovsec:hasName "Bankwell Financial Group, Inc."
+_usgovcik:1506307 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1506307 usgovsec:hasCIK 1506307
+_usgovcik:1506307 to:label "KINDER MORGAN, INC."
+_usgovcik:1506307 usgovsec:hasName "KINDER MORGAN, INC."
+_usgovcik:1507615 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1507615 usgovsec:hasCIK 1507615
+_usgovcik:1507615 to:label "TESORO LOGISTICS LP"
+_usgovcik:1507615 usgovsec:hasName "TESORO LOGISTICS LP"
+_usgovcik:1508355 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1508355 usgovsec:hasCIK 1508355
+_usgovcik:1508355 to:label "Wedbush Hedged Dividend Fund, L.P."
+_usgovcik:1508355 usgovsec:hasName "Wedbush Hedged Dividend Fund, L.P."
+_usgovcik:1510295 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1510295 usgovsec:hasCIK 1510295
+_usgovcik:1510295 to:label "Marathon Petroleum Corp"
+_usgovcik:1510295 usgovsec:hasName "Marathon Petroleum Corp"
+_usgovcik:1510964 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1510964 usgovsec:hasCIK 1510964
+_usgovcik:1510964 to:label "CV Sciences, Inc."
+_usgovcik:1510964 usgovsec:hasName "CV Sciences, Inc."
+_usgovcik:1512138 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1512138 usgovsec:hasCIK 1512138
+_usgovcik:1512138 to:label "Great Basin Scientific, Inc."
+_usgovcik:1512138 usgovsec:hasName "Great Basin Scientific, Inc."
+_usgovcik:1513856 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1513856 usgovsec:hasCIK 1513856
+_usgovcik:1513856 to:label "Neurotrope, Inc."
+_usgovcik:1513856 usgovsec:hasName "Neurotrope, Inc."
+_usgovcik:1514242 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1514242 usgovsec:hasCIK 1514242
+_usgovcik:1514242 to:label "Performance Sports Group Ltd."
+_usgovcik:1514242 usgovsec:hasName "Performance Sports Group Ltd."
+_usgovcik:1514991 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1514991 usgovsec:hasCIK 1514991
+_usgovcik:1514991 to:label "AMC Networks Inc."
+_usgovcik:1514991 usgovsec:hasName "AMC Networks Inc."
+_usgovcik:1520006 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1520006 usgovsec:hasCIK 1520006
+_usgovcik:1520006 to:label "Matador Resources Co"
+_usgovcik:1520006 usgovsec:hasName "Matador Resources Co"
+_usgovcik:1520697 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1520697 usgovsec:hasCIK 1520697
+_usgovcik:1520697 to:label "Acadia Healthcare Company, Inc."
+_usgovcik:1520697 usgovsec:hasName "Acadia Healthcare Company, Inc."
+_usgovcik:1522327 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1522327 usgovsec:hasCIK 1522327
+_usgovcik:1522327 to:label "Entegra Financial Corp."
+_usgovcik:1522327 usgovsec:hasName "Entegra Financial Corp."
+_usgovcik:1522805 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1522805 usgovsec:hasCIK 1522805
+_usgovcik:1522805 to:label "Kyruus, Inc."
+_usgovcik:1522805 usgovsec:hasName "Kyruus, Inc."
+_usgovcik:1529864 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1529864 usgovsec:hasCIK 1529864
+_usgovcik:1529864 to:label "Enova International, Inc."
+_usgovcik:1529864 usgovsec:hasName "Enova International, Inc."
+_usgovcik:1530804 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1530804 usgovsec:hasCIK 1530804
+_usgovcik:1530804 to:label "Tronox Ltd"
+_usgovcik:1530804 usgovsec:hasName "Tronox Ltd"
+_usgovcik:1533758 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1533758 usgovsec:hasCIK 1533758
+_usgovcik:1533758 to:label "Hughes Satellite Systems Corp"
+_usgovcik:1533758 usgovsec:hasName "Hughes Satellite Systems Corp"
+_usgovcik:1534504 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1534504 usgovsec:hasCIK 1534504
+_usgovcik:1534504 to:label "PBF Energy Inc."
+_usgovcik:1534504 usgovsec:hasName "PBF Energy Inc."
+_usgovcik:1535365 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1535365 usgovsec:hasCIK 1535365
+_usgovcik:1535365 to:label "iSHARES COMMODITY OPTIMIZED TRUST"
+_usgovcik:1535365 usgovsec:hasName "iSHARES COMMODITY OPTIMIZED TRUST"
+_usgovcik:1535778 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1535778 usgovsec:hasCIK 1535778
+_usgovcik:1535778 to:label "HMS INCOME FUND, INC."
+_usgovcik:1535778 usgovsec:hasName "HMS INCOME FUND, INC."
+_usgovcik:1538990 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1538990 usgovsec:hasCIK 1538990
+_usgovcik:1538990 to:label "STORE CAPITAL Corp"
+_usgovcik:1538990 usgovsec:hasName "STORE CAPITAL Corp"
+_usgovcik:1540492 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1540492 usgovsec:hasCIK 1540492
+_usgovcik:1540492 to:label "Quad Learning, Inc."
+_usgovcik:1540492 usgovsec:hasName "Quad Learning, Inc."
+_usgovcik:1540729 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1540729 usgovsec:hasCIK 1540729
+_usgovcik:1540729 to:label "Foresight Energy LP"
+_usgovcik:1540729 usgovsec:hasName "Foresight Energy LP"
+_usgovcik:1546241 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1546241 usgovsec:hasCIK 1546241
+_usgovcik:1546241 to:label "Select Sands Corp."
+_usgovcik:1546241 usgovsec:hasName "Select Sands Corp."
+_usgovcik:1549922 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1549922 usgovsec:hasCIK 1549922
+_usgovcik:1549922 to:label "Summit Midstream Partners, LP"
+_usgovcik:1549922 usgovsec:hasName "Summit Midstream Partners, LP"
+_usgovcik:1550020 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1550020 usgovsec:hasCIK 1550020
+_usgovcik:1550020 to:label "eWELLNESS HEALTHCARE Corp"
+_usgovcik:1550020 usgovsec:hasName "eWELLNESS HEALTHCARE Corp"
+_usgovcik:1551182 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1551182 usgovsec:hasCIK 1551182
+_usgovcik:1551182 to:label "Eaton Corp plc"
+_usgovcik:1551182 usgovsec:hasName "Eaton Corp plc"
+_usgovcik:1551423 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1551423 usgovsec:hasCIK 1551423
+_usgovcik:1551423 to:label "Barclays Bank Delaware"
+_usgovcik:1551423 usgovsec:hasName "Barclays Bank Delaware"
+_usgovcik:1551964 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1551964 usgovsec:hasCIK 1551964
+_usgovcik:1551964 to:label "Barclays Dryrock Funding LLC"
+_usgovcik:1551964 usgovsec:hasName "Barclays Dryrock Funding LLC"
+_usgovcik:1552000 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1552000 usgovsec:hasCIK 1552000
+_usgovcik:1552000 to:label "MPLX LP"
+_usgovcik:1552000 usgovsec:hasName "MPLX LP"
+_usgovcik:1552111 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1552111 usgovsec:hasCIK 1552111
+_usgovcik:1552111 to:label "Barclays Dryrock Issuance Trust"
+_usgovcik:1552111 usgovsec:hasName "Barclays Dryrock Issuance Trust"
+_usgovcik:1552189 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1552189 usgovsec:hasCIK 1552189
+_usgovcik:1552189 to:label "Exactus, Inc."
+_usgovcik:1552189 usgovsec:hasName "Exactus, Inc."
+_usgovcik:1552275 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1552275 usgovsec:hasCIK 1552275
+_usgovcik:1552275 to:label "Sunoco LP"
+_usgovcik:1552275 usgovsec:hasName "Sunoco LP"
+_usgovcik:1552800 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1552800 usgovsec:hasCIK 1552800
+_usgovcik:1552800 to:label "TILE SHOP HOLDINGS, INC."
+_usgovcik:1552800 usgovsec:hasName "TILE SHOP HOLDINGS, INC."
+_usgovcik:1553023 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1553023 usgovsec:hasCIK 1553023
+_usgovcik:1553023 to:label "CyrusOne Inc."
+_usgovcik:1553023 usgovsec:hasName "CyrusOne Inc."
+_usgovcik:1555365 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1555365 usgovsec:hasCIK 1555365
+_usgovcik:1555365 to:label "WHITEWAVE FOODS Co"
+_usgovcik:1555365 usgovsec:hasName "WHITEWAVE FOODS Co"
+_usgovcik:1556148 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1556148 usgovsec:hasCIK 1556148
+_usgovcik:1556148 to:label "Infor, Inc."
+_usgovcik:1556148 usgovsec:hasName "Infor, Inc."
+_usgovcik:1559865 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1559865 usgovsec:hasCIK 1559865
+_usgovcik:1559865 to:label "EVERTEC, Inc."
+_usgovcik:1559865 usgovsec:hasName "EVERTEC, Inc."
+_usgovcik:1561257 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1561257 usgovsec:hasCIK 1561257
+_usgovcik:1561257 to:label "Helpful Alliance Co"
+_usgovcik:1561257 usgovsec:hasName "Helpful Alliance Co"
+_usgovcik:15615 to:type usgovsec:SECRegulatedEntity
+_usgovcik:15615 usgovsec:hasCIK 15615
+_usgovcik:15615 to:label "MASTEC INC"
+_usgovcik:15615 usgovsec:hasName "MASTEC INC"
+_usgovcik:1561680 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1561680 usgovsec:hasCIK 1561680
+_usgovcik:1561680 to:label "TRI Pointe Group, Inc."
+_usgovcik:1561680 usgovsec:hasName "TRI Pointe Group, Inc."
+COMMIT
+START_TRANSACTION
+_usgovcik:1561894 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1561894 usgovsec:hasCIK 1561894
+_usgovcik:1561894 to:label "Hannon Armstrong Sustainable Infrastructure Capital, Inc."
+_usgovcik:1561894 usgovsec:hasName "Hannon Armstrong Sustainable Infrastructure Capital, Inc."
+_usgovcik:1562401 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1562401 usgovsec:hasCIK 1562401
+_usgovcik:1562401 to:label "American Homes 4 Rent"
+_usgovcik:1562401 usgovsec:hasName "American Homes 4 Rent"
+_usgovcik:1566561 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1566561 usgovsec:hasCIK 1566561
+_usgovcik:1566561 to:label "MAGICSTEM GROUP CORP."
+_usgovcik:1566561 usgovsec:hasName "MAGICSTEM GROUP CORP."
+_usgovcik:1569391 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1569391 usgovsec:hasCIK 1569391
+_usgovcik:1569391 to:label "KCG Holdings, Inc."
+_usgovcik:1569391 usgovsec:hasName "KCG Holdings, Inc."
+_usgovcik:1569994 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1569994 usgovsec:hasCIK 1569994
+_usgovcik:1569994 to:label "Waterstone Financial, Inc."
+_usgovcik:1569994 usgovsec:hasName "Waterstone Financial, Inc."
+_usgovcik:1574085 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1574085 usgovsec:hasCIK 1574085
+_usgovcik:1574085 to:label "Ashford Hospitality Prime, Inc."
+_usgovcik:1574085 usgovsec:hasName "Ashford Hospitality Prime, Inc."
+_usgovcik:1574540 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1574540 usgovsec:hasCIK 1574540
+_usgovcik:1574540 to:label "Physicians Realty Trust"
+_usgovcik:1574540 usgovsec:hasName "Physicians Realty Trust"
+_usgovcik:1575485 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1575485 usgovsec:hasCIK 1575485
+_usgovcik:1575485 to:label "Inprentus, Inc."
+_usgovcik:1575485 usgovsec:hasName "Inprentus, Inc."
+_usgovcik:1575828 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1575828 usgovsec:hasCIK 1575828
+_usgovcik:1575828 to:label "Frank's International N.V."
+_usgovcik:1575828 usgovsec:hasName "Frank's International N.V."
+_usgovcik:1575858 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1575858 usgovsec:hasCIK 1575858
+_usgovcik:1575858 to:label "PureBase Corp"
+_usgovcik:1575858 usgovsec:hasName "PureBase Corp"
+_usgovcik:1576018 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1576018 usgovsec:hasCIK 1576018
+_usgovcik:1576018 to:label "Third Point Reinsurance Ltd."
+_usgovcik:1576018 usgovsec:hasName "Third Point Reinsurance Ltd."
+_usgovcik:1576169 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1576169 usgovsec:hasCIK 1576169
+_usgovcik:1576169 to:label Benefitfocus,Inc.
+_usgovcik:1576169 usgovsec:hasName Benefitfocus,Inc.
+_usgovcik:1577670 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1577670 usgovsec:hasCIK 1577670
+_usgovcik:1577670 to:label "Ladder Capital Corp"
+_usgovcik:1577670 usgovsec:hasName "Ladder Capital Corp"
+_usgovcik:1578776 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1578776 usgovsec:hasCIK 1578776
+_usgovcik:1578776 to:label "PRUDENTIAL BANCORP, INC."
+_usgovcik:1578776 usgovsec:hasName "PRUDENTIAL BANCORP, INC."
+_usgovcik:1578845 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1578845 usgovsec:hasCIK 1578845
+_usgovcik:1578845 to:label "Allergan plc"
+_usgovcik:1578845 usgovsec:hasName "Allergan plc"
+_usgovcik:1579411 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1579411 usgovsec:hasCIK 1579411
+_usgovcik:1579411 to:label "MediaHound, Inc."
+_usgovcik:1579411 usgovsec:hasName "MediaHound, Inc."
+_usgovcik:1579910 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1579910 usgovsec:hasCIK 1579910
+_usgovcik:1579910 to:label "Resonant Inc"
+_usgovcik:1579910 usgovsec:hasName "Resonant Inc"
+_usgovcik:1580808 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1580808 usgovsec:hasCIK 1580808
+_usgovcik:1580808 to:label "A10 Networks, Inc."
+_usgovcik:1580808 usgovsec:hasName "A10 Networks, Inc."
+_usgovcik:1581091 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1581091 usgovsec:hasCIK 1581091
+_usgovcik:1581091 to:label "RE/MAX Holdings, Inc."
+_usgovcik:1581091 usgovsec:hasName "RE/MAX Holdings, Inc."
+_usgovcik:1581776 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1581776 usgovsec:hasCIK 1581776
+_usgovcik:1581776 to:label "Mid-America Apartments, L.P."
+_usgovcik:1581776 usgovsec:hasName "Mid-America Apartments, L.P."
+_usgovcik:1582568 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1582568 usgovsec:hasCIK 1582568
+_usgovcik:1582568 to:label "PBF Logistics LP"
+_usgovcik:1582568 usgovsec:hasName "PBF Logistics LP"
+_usgovcik:1582966 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1582966 usgovsec:hasCIK 1582966
+_usgovcik:1582966 to:label "Cheniere Energy Partners LP Holdings, LLC"
+_usgovcik:1582966 usgovsec:hasName "Cheniere Energy Partners LP Holdings, LLC"
+_usgovcik:1583513 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1583513 usgovsec:hasCIK 1583513
+_usgovcik:1583513 to:label "STG Group, Inc."
+_usgovcik:1583513 usgovsec:hasName "STG Group, Inc."
+_usgovcik:1583994 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1583994 usgovsec:hasCIK 1583994
+_usgovcik:1583994 to:label "Physicians Realty L.P."
+_usgovcik:1583994 usgovsec:hasName "Physicians Realty L.P."
+_usgovcik:1585103 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1585103 usgovsec:hasCIK 1585103
+_usgovcik:1585103 to:label "Wheels Up Partners Holdings LLC"
+_usgovcik:1585103 usgovsec:hasName "Wheels Up Partners Holdings LLC"
+_usgovcik:1585608 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1585608 usgovsec:hasCIK 1585608
+_usgovcik:1585608 to:label "Jaguar Animal Health, Inc."
+_usgovcik:1585608 usgovsec:hasName "Jaguar Animal Health, Inc."
+_usgovcik:1585790 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1585790 usgovsec:hasCIK 1585790
+_usgovcik:1585790 to:label "Advanced Disposal Services, Inc."
+_usgovcik:1585790 usgovsec:hasName "Advanced Disposal Services, Inc."
+_usgovcik:1587732 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1587732 usgovsec:hasCIK 1587732
+_usgovcik:1587732 to:label "ONE Gas, Inc."
+_usgovcik:1587732 usgovsec:hasName "ONE Gas, Inc."
+_usgovcik:1590364 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1590364 usgovsec:hasCIK 1590364
+_usgovcik:1590364 to:label "Fortress Transportation & Infrastructure Investors LLC"
+_usgovcik:1590364 usgovsec:hasName "Fortress Transportation & Infrastructure Investors LLC"
+_usgovcik:1591165 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1591165 usgovsec:hasCIK 1591165
+_usgovcik:1591165 to:label "Medovex Corp."
+_usgovcik:1591165 usgovsec:hasName "Medovex Corp."
+_usgovcik:1592480 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1592480 usgovsec:hasCIK 1592480
+_usgovcik:1592480 to:label "Continental Building Products, Inc."
+_usgovcik:1592480 usgovsec:hasName "Continental Building Products, Inc."
+_usgovcik:1593538 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1593538 usgovsec:hasCIK 1593538
+_usgovcik:1593538 to:label "NAVIENT CORP"
+_usgovcik:1593538 usgovsec:hasName "NAVIENT CORP"
+_usgovcik:1594686 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1594686 usgovsec:hasCIK 1594686
+_usgovcik:1594686 to:label "WASHINGTON PRIME GROUP INC."
+_usgovcik:1594686 usgovsec:hasName "WASHINGTON PRIME GROUP INC."
+_usgovcik:1595971 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1595971 usgovsec:hasCIK 1595971
+_usgovcik:1595971 to:label "Agilis Biotherapeutics, Inc."
+_usgovcik:1595971 usgovsec:hasName "Agilis Biotherapeutics, Inc."
+_usgovcik:1597033 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1597033 usgovsec:hasCIK 1597033
+_usgovcik:1597033 to:label "Sabre Corp"
+_usgovcik:1597033 usgovsec:hasName "Sabre Corp"
+_usgovcik:1597553 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1597553 usgovsec:hasCIK 1597553
+_usgovcik:1597553 to:label "Sage Therapeutics, Inc."
+_usgovcik:1597553 usgovsec:hasName "Sage Therapeutics, Inc."
+_usgovcik:1597672 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1597672 usgovsec:hasCIK 1597672
+_usgovcik:1597672 to:label "RAYONIER ADVANCED MATERIALS INC."
+_usgovcik:1597672 usgovsec:hasName "RAYONIER ADVANCED MATERIALS INC."
+_usgovcik:1599947 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1599947 usgovsec:hasCIK 1599947
+_usgovcik:1599947 to:label "TerraForm Power, Inc."
+_usgovcik:1599947 usgovsec:hasName "TerraForm Power, Inc."
+_usgovcik:1604738 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1604738 usgovsec:hasCIK 1604738
+_usgovcik:1604738 to:label "Ashford Inc."
+_usgovcik:1604738 usgovsec:hasName "Ashford Inc."
+_usgovcik:1607450 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1607450 usgovsec:hasCIK 1607450
+_usgovcik:1607450 to:label "ABV CONSULTING, INC."
+_usgovcik:1607450 usgovsec:hasName "ABV CONSULTING, INC."
+_usgovcik:1609253 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1609253 usgovsec:hasCIK 1609253
+_usgovcik:1609253 to:label "California Resources Corp"
+_usgovcik:1609253 usgovsec:hasName "California Resources Corp"
+_usgovcik:1609854 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1609854 usgovsec:hasCIK 1609854
+_usgovcik:1609854 to:label "Snoasis Medical LLC"
+_usgovcik:1609854 usgovsec:hasName "Snoasis Medical LLC"
+_usgovcik:1610911 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1610911 usgovsec:hasCIK 1610911
+_usgovcik:1610911 to:label "Washington Prime Group, L.P."
+_usgovcik:1610911 usgovsec:hasName "Washington Prime Group, L.P."
+_usgovcik:1611687 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1611687 usgovsec:hasCIK 1611687
+_usgovcik:1611687 to:label "TearSolutions, Inc."
+_usgovcik:1611687 usgovsec:hasName "TearSolutions, Inc."
+_usgovcik:1613665 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1613665 usgovsec:hasCIK 1613665
+_usgovcik:1613665 to:label "Great Western Bancorp, Inc."
+_usgovcik:1613665 usgovsec:hasName "Great Western Bancorp, Inc."
+_usgovcik:1616817 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1616817 usgovsec:hasCIK 1616817
+_usgovcik:1616817 to:label "Metaldyne Performance Group Inc."
+_usgovcik:1616817 usgovsec:hasName "Metaldyne Performance Group Inc."
+_usgovcik:1620602 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1620602 usgovsec:hasCIK 1620602
+_usgovcik:1620602 to:label "Warner Chilcott Ltd"
+_usgovcik:1620602 usgovsec:hasName "Warner Chilcott Ltd"
+_usgovcik:1620702 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1620702 usgovsec:hasCIK 1620702
+_usgovcik:1620702 to:label "TERRAFORM GLOBAL, INC."
+_usgovcik:1620702 usgovsec:hasName "TERRAFORM GLOBAL, INC."
+_usgovcik:1623554 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1623554 usgovsec:hasCIK 1623554
+_usgovcik:1623554 to:label "XFIT BRANDS, INC."
+_usgovcik:1623554 usgovsec:hasName "XFIT BRANDS, INC."
+_usgovcik:1623595 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1623595 usgovsec:hasCIK 1623595
+_usgovcik:1623595 to:label "Atlas Energy Group, LLC"
+_usgovcik:1623595 usgovsec:hasName "Atlas Energy Group, LLC"
+COMMIT
+START_TRANSACTION
+_usgovcik:1625285 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1625285 usgovsec:hasCIK 1625285
+_usgovcik:1625285 to:label "Arma Services Inc"
+_usgovcik:1625285 usgovsec:hasName "Arma Services Inc"
+_usgovcik:1627014 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1627014 usgovsec:hasCIK 1627014
+_usgovcik:1627014 to:label "Black Knight Financial Services, Inc."
+_usgovcik:1627014 usgovsec:hasName "Black Knight Financial Services, Inc."
+_usgovcik:1628063 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1628063 usgovsec:hasCIK 1628063
+_usgovcik:1628063 to:label "Seritage Growth Properties"
+_usgovcik:1628063 usgovsec:hasName "Seritage Growth Properties"
+_usgovcik:1628175 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1628175 usgovsec:hasCIK 1628175
+_usgovcik:1628175 to:label "Pinkbrick Holdings Inc."
+_usgovcik:1628175 usgovsec:hasName "Pinkbrick Holdings Inc."
+_usgovcik:1634504 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1634504 usgovsec:hasCIK 1634504
+_usgovcik:1634504 to:label "Prescription Advisory Systems & Technology, Inc."
+_usgovcik:1634504 usgovsec:hasName "Prescription Advisory Systems & Technology, Inc."
+_usgovcik:1635718 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1635718 usgovsec:hasCIK 1635718
+_usgovcik:1635718 to:label "Gannett Co., Inc."
+_usgovcik:1635718 usgovsec:hasName "Gannett Co., Inc."
+_usgovcik:1635748 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1635748 usgovsec:hasCIK 1635748
+_usgovcik:1635748 to:label "Zoompass Holdings, Inc."
+_usgovcik:1635748 usgovsec:hasName "Zoompass Holdings, Inc."
+_usgovcik:1638058 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1638058 usgovsec:hasCIK 1638058
+_usgovcik:1638058 to:label "ETP Retail Holdings, LLC"
+_usgovcik:1638058 usgovsec:hasName "ETP Retail Holdings, LLC"
+_usgovcik:1641489 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1641489 usgovsec:hasCIK 1641489
+_usgovcik:1641489 to:label "vTv Therapeutics Inc."
+_usgovcik:1641489 usgovsec:hasName "vTv Therapeutics Inc."
+_usgovcik:1642335 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1642335 usgovsec:hasCIK 1642335
+_usgovcik:1642335 to:label "WHEAT CAPITAL MANAGEMENT, LLC"
+_usgovcik:1642335 usgovsec:hasName "WHEAT CAPITAL MANAGEMENT, LLC"
+_usgovcik:1642380 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1642380 usgovsec:hasCIK 1642380
+_usgovcik:1642380 to:label "OncoCyte Corp"
+_usgovcik:1642380 usgovsec:hasName "OncoCyte Corp"
+_usgovcik:1642453 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1642453 usgovsec:hasCIK 1642453
+_usgovcik:1642453 to:label "Hennessy Capital Acquisition Corp II"
+_usgovcik:1642453 usgovsec:hasName "Hennessy Capital Acquisition Corp II"
+_usgovcik:1645202 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1645202 usgovsec:hasCIK 1645202
+_usgovcik:1645202 to:label "Callinize, Inc."
+_usgovcik:1645202 usgovsec:hasName "Callinize, Inc."
+_usgovcik:1650022 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1650022 usgovsec:hasCIK 1650022
+_usgovcik:1650022 to:label "Noyes Clear Software Investment Fund LLC"
+_usgovcik:1650022 usgovsec:hasName "Noyes Clear Software Investment Fund LLC"
+_usgovcik:1650962 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1650962 usgovsec:hasCIK 1650962
+_usgovcik:1650962 to:label "Manitowoc Foodservice, Inc."
+_usgovcik:1650962 usgovsec:hasName "Manitowoc Foodservice, Inc."
+_usgovcik:1654588 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1654588 usgovsec:hasCIK 1654588
+_usgovcik:1654588 to:label "HIP CUISINE INC."
+_usgovcik:1654588 usgovsec:hasName "HIP CUISINE INC."
+_usgovcik:1665674 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1665674 usgovsec:hasCIK 1665674
+_usgovcik:1665674 to:label "CLICK NOTICES, INC."
+_usgovcik:1665674 usgovsec:hasName "CLICK NOTICES, INC."
+_usgovcik:1666422 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1666422 usgovsec:hasCIK 1666422
+_usgovcik:1666422 to:label "JoinMyTable, LLC"
+_usgovcik:1666422 usgovsec:hasName "JoinMyTable, LLC"
+_usgovcik:1668224 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1668224 usgovsec:hasCIK 1668224
+_usgovcik:1668224 to:label "HarborOne Bancorp, Inc."
+_usgovcik:1668224 usgovsec:hasName "HarborOne Bancorp, Inc."
+_usgovcik:1668457 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1668457 usgovsec:hasCIK 1668457
+_usgovcik:1668457 to:label "MD Interconnect, Inc."
+_usgovcik:1668457 usgovsec:hasName "MD Interconnect, Inc."
+_usgovcik:1668523 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1668523 usgovsec:hasCIK 1668523
+_usgovcik:1668523 to:label "Wike Corp."
+_usgovcik:1668523 usgovsec:hasName "Wike Corp."
+_usgovcik:1671584 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1671584 usgovsec:hasCIK 1671584
+_usgovcik:1671584 to:label "Aptevo Therapeutics Inc."
+_usgovcik:1671584 usgovsec:hasName "Aptevo Therapeutics Inc."
+_usgovcik:1671944 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1671944 usgovsec:hasCIK 1671944
+_usgovcik:1671944 to:label "AMAZON MARKET NEUTRAL FUND"
+_usgovcik:1671944 usgovsec:hasName "AMAZON MARKET NEUTRAL FUND"
+_usgovcik:1675149 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1675149 usgovsec:hasCIK 1675149
+_usgovcik:1675149 to:label "Alcoa Corp"
+_usgovcik:1675149 usgovsec:hasName "Alcoa Corp"
+_usgovcik:1679268 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1679268 usgovsec:hasCIK 1679268
+_usgovcik:1679268 to:label "Mammoth Energy Services, Inc."
+_usgovcik:1679268 usgovsec:hasName "Mammoth Energy Services, Inc."
+_usgovcik:1680048 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1680048 usgovsec:hasCIK 1680048
+_usgovcik:1680048 to:label "MUSTANG BIO, INC."
+_usgovcik:1680048 usgovsec:hasName "MUSTANG BIO, INC."
+_usgovcik:1681459 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1681459 usgovsec:hasCIK 1681459
+_usgovcik:1681459 to:label "TechnipFMC plc"
+_usgovcik:1681459 usgovsec:hasName "TechnipFMC plc"
+_usgovcik:1683963 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1683963 usgovsec:hasCIK 1683963
+_usgovcik:1683963 to:label "Zeus CrowdFunding LLC"
+_usgovcik:1683963 usgovsec:hasName "Zeus CrowdFunding LLC"
+_usgovcik:1687505 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1687505 usgovsec:hasCIK 1687505
+_usgovcik:1687505 to:label "Sinorama Corp"
+_usgovcik:1687505 usgovsec:hasName "Sinorama Corp"
+_usgovcik:1690965 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1690965 usgovsec:hasCIK 1690965
+_usgovcik:1690965 to:label "CINCINNATI CORNERSTONE INVESTORS EI III, LLC"
+_usgovcik:1690965 usgovsec:hasName "CINCINNATI CORNERSTONE INVESTORS EI III, LLC"
+_usgovcik:1690983 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1690983 usgovsec:hasCIK 1690983
+_usgovcik:1690983 to:label "Eagle River Capital, LLC"
+_usgovcik:1690983 usgovsec:hasName "Eagle River Capital, LLC"
+_usgovcik:1692115 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1692115 usgovsec:hasCIK 1692115
+_usgovcik:1692115 to:label "Southwest Gas Holdings, Inc."
+_usgovcik:1692115 usgovsec:hasName "Southwest Gas Holdings, Inc."
+_usgovcik:1692124 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1692124 usgovsec:hasCIK 1692124
+_usgovcik:1692124 to:label "Savanna Real Estate (PIV) Fund IV, L.P."
+_usgovcik:1692124 usgovsec:hasName "Savanna Real Estate (PIV) Fund IV, L.P."
+_usgovcik:1692139 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1692139 usgovsec:hasCIK 1692139
+_usgovcik:1692139 to:label "Nash Coinvestment, L.P."
+_usgovcik:1692139 usgovsec:hasName "Nash Coinvestment, L.P."
+_usgovcik:1693465 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1693465 usgovsec:hasCIK 1693465
+_usgovcik:1693465 to:label "LLR Equity Partners Parallel V, L.P."
+_usgovcik:1693465 usgovsec:hasName "LLR Equity Partners Parallel V, L.P."
+_usgovcik:1693511 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1693511 usgovsec:hasCIK 1693511
+_usgovcik:1693511 to:label "LLR Equity Partners V, L.P."
+_usgovcik:1693511 usgovsec:hasName "LLR Equity Partners V, L.P."
+_usgovcik:1694010 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1694010 usgovsec:hasCIK 1694010
+_usgovcik:1694010 to:label "AmeriCredit Automobile Receivables Trust 2017-1"
+_usgovcik:1694010 usgovsec:hasName "AmeriCredit Automobile Receivables Trust 2017-1"
+_usgovcik:1694576 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1694576 usgovsec:hasCIK 1694576
+_usgovcik:1694576 to:label "John Lucas Tree Expert Co"
+_usgovcik:1694576 usgovsec:hasName "John Lucas Tree Expert Co"
+_usgovcik:1695761 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1695761 usgovsec:hasCIK 1695761
+_usgovcik:1695761 to:label "Snapwood Hills, LLC"
+_usgovcik:1695761 usgovsec:hasName "Snapwood Hills, LLC"
+_usgovcik:1696522 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1696522 usgovsec:hasCIK 1696522
+_usgovcik:1696522 to:label "Innoventures Fund I-B, LLC"
+_usgovcik:1696522 usgovsec:hasName "Innoventures Fund I-B, LLC"
+_usgovcik:1697235 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1697235 usgovsec:hasCIK 1697235
+_usgovcik:1697235 to:label "Altair Healthcare Real Estate Fund II, LLC"
+_usgovcik:1697235 usgovsec:hasName "Altair Healthcare Real Estate Fund II, LLC"
+_usgovcik:1697308 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1697308 usgovsec:hasCIK 1697308
+_usgovcik:1697308 to:label "Ommo Technologies, Inc."
+_usgovcik:1697308 usgovsec:hasName "Ommo Technologies, Inc."
+_usgovcik:1697595 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1697595 usgovsec:hasCIK 1697595
+_usgovcik:1697595 to:label "Galman Exeter 2017, L.P."
+_usgovcik:1697595 usgovsec:hasName "Galman Exeter 2017, L.P."
+_usgovcik:1697840 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1697840 usgovsec:hasCIK 1697840
+_usgovcik:1697840 to:label "Fibre Lifestyle, Inc."
+_usgovcik:1697840 usgovsec:hasName "Fibre Lifestyle, Inc."
+_usgovcik:1697873 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1697873 usgovsec:hasCIK 1697873
+_usgovcik:1697873 to:label "John Deere Owner Trust 2017"
+_usgovcik:1697873 usgovsec:hasName "John Deere Owner Trust 2017"
+_usgovcik:1698110 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698110 usgovsec:hasCIK 1698110
+_usgovcik:1698110 to:label "Alta Partners IX, L.P."
+_usgovcik:1698110 usgovsec:hasName "Alta Partners IX, L.P."
+_usgovcik:1698115 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698115 usgovsec:hasCIK 1698115
+_usgovcik:1698115 to:label "Linse Capital CP III, LLC"
+_usgovcik:1698115 usgovsec:hasName "Linse Capital CP III, LLC"
+_usgovcik:1698137 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698137 usgovsec:hasCIK 1698137
+_usgovcik:1698137 to:label "GH INTERNATIONAL INC."
+_usgovcik:1698137 usgovsec:hasName "GH INTERNATIONAL INC."
+_usgovcik:1698312 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698312 usgovsec:hasCIK 1698312
+_usgovcik:1698312 to:label "Drivetrain Capital Fund L.P."
+_usgovcik:1698312 usgovsec:hasName "Drivetrain Capital Fund L.P."
+_usgovcik:1698333 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698333 usgovsec:hasCIK 1698333
+_usgovcik:1698333 to:label "Anorak Ventures Fund I, L.P."
+_usgovcik:1698333 usgovsec:hasName "Anorak Ventures Fund I, L.P."
+COMMIT
+START_TRANSACTION
+_usgovcik:1698338 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698338 usgovsec:hasCIK 1698338
+_usgovcik:1698338 to:label "JFM CAVU LLC"
+_usgovcik:1698338 usgovsec:hasName "JFM CAVU LLC"
+_usgovcik:1698346 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698346 usgovsec:hasCIK 1698346
+_usgovcik:1698346 to:label "Numbers, Inc."
+_usgovcik:1698346 usgovsec:hasName "Numbers, Inc."
+_usgovcik:1698394 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698394 usgovsec:hasCIK 1698394
+_usgovcik:1698394 to:label "Lombard International Life Assurance Co Separate Account VA 168"
+_usgovcik:1698394 usgovsec:hasName "Lombard International Life Assurance Co Separate Account VA 168"
+_usgovcik:1698492 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698492 usgovsec:hasCIK 1698492
+_usgovcik:1698492 to:label "nkope, Inc."
+_usgovcik:1698492 usgovsec:hasName "nkope, Inc."
+_usgovcik:1698543 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698543 usgovsec:hasCIK 1698543
+_usgovcik:1698543 to:label "Avenue Asia Special Situations Fund V, L.P."
+_usgovcik:1698543 usgovsec:hasName "Avenue Asia Special Situations Fund V, L.P."
+_usgovcik:1698568 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698568 usgovsec:hasCIK 1698568
+_usgovcik:1698568 to:label "FundersClub HRH LLC"
+_usgovcik:1698568 usgovsec:hasName "FundersClub HRH LLC"
+_usgovcik:1698577 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698577 usgovsec:hasCIK 1698577
+_usgovcik:1698577 to:label "Alpha GP Fund I, LLC"
+_usgovcik:1698577 usgovsec:hasName "Alpha GP Fund I, LLC"
+_usgovcik:1698584 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698584 usgovsec:hasCIK 1698584
+_usgovcik:1698584 to:label "EAJD Enterprises, Inc."
+_usgovcik:1698584 usgovsec:hasName "EAJD Enterprises, Inc."
+_usgovcik:1698600 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698600 usgovsec:hasCIK 1698600
+_usgovcik:1698600 to:label "DW Wynn, LLC"
+_usgovcik:1698600 usgovsec:hasName "DW Wynn, LLC"
+_usgovcik:1698631 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698631 usgovsec:hasCIK 1698631
+_usgovcik:1698631 to:label "TCT Financial, L.L.C."
+_usgovcik:1698631 usgovsec:hasName "TCT Financial, L.L.C."
+_usgovcik:1698652 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698652 usgovsec:hasCIK 1698652
+_usgovcik:1698652 to:label "ATX Systems, LLC"
+_usgovcik:1698652 usgovsec:hasName "ATX Systems, LLC"
+_usgovcik:1698669 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698669 usgovsec:hasCIK 1698669
+_usgovcik:1698669 to:label "Wing Strategic Partners Two, L.P."
+_usgovcik:1698669 usgovsec:hasName "Wing Strategic Partners Two, L.P."
+_usgovcik:1698698 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698698 usgovsec:hasCIK 1698698
+_usgovcik:1698698 to:label "Bandy Brothers Program Alpha LP"
+_usgovcik:1698698 usgovsec:hasName "Bandy Brothers Program Alpha LP"
+_usgovcik:1698753 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698753 usgovsec:hasCIK 1698753
+_usgovcik:1698753 to:label "Envest Capital Partners, LLC"
+_usgovcik:1698753 usgovsec:hasName "Envest Capital Partners, LLC"
+_usgovcik:1698760 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698760 usgovsec:hasCIK 1698760
+_usgovcik:1698760 to:label "Flagship Capital Partners Fund IV LP"
+_usgovcik:1698760 usgovsec:hasName "Flagship Capital Partners Fund IV LP"
+_usgovcik:1698768 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698768 usgovsec:hasCIK 1698768
+_usgovcik:1698768 to:label "Envest Capital QP,LLC"
+_usgovcik:1698768 usgovsec:hasName "Envest Capital QP,LLC"
+_usgovcik:1698821 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698821 usgovsec:hasCIK 1698821
+_usgovcik:1698821 to:label "B & B BUTCHERS - FW, LTD."
+_usgovcik:1698821 usgovsec:hasName "B & B BUTCHERS - FW, LTD."
+_usgovcik:1698826 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698826 usgovsec:hasCIK 1698826
+_usgovcik:1698826 to:label "LEGACY MANDEVILLE #1, L.L.C."
+_usgovcik:1698826 usgovsec:hasName "LEGACY MANDEVILLE #1, L.L.C."
+_usgovcik:1698881 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698881 usgovsec:hasCIK 1698881
+_usgovcik:1698881 to:label "ICONIQ Access 60, LP"
+_usgovcik:1698881 usgovsec:hasName "ICONIQ Access 60, LP"
+_usgovcik:1698882 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698882 usgovsec:hasCIK 1698882
+_usgovcik:1698882 to:label "FW Weisenberger Investors LP"
+_usgovcik:1698882 usgovsec:hasName "FW Weisenberger Investors LP"
+_usgovcik:1698883 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698883 usgovsec:hasCIK 1698883
+_usgovcik:1698883 to:label "ICQ Investments PG, LP"
+_usgovcik:1698883 usgovsec:hasName "ICQ Investments PG, LP"
+_usgovcik:1698887 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698887 usgovsec:hasCIK 1698887
+_usgovcik:1698887 to:label "Marblehead Medical LLC"
+_usgovcik:1698887 usgovsec:hasName "Marblehead Medical LLC"
+_usgovcik:1698888 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698888 usgovsec:hasCIK 1698888
+_usgovcik:1698888 to:label "Ladd's Addition Flats LLC"
+_usgovcik:1698888 usgovsec:hasName "Ladd's Addition Flats LLC"
+_usgovcik:1698893 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698893 usgovsec:hasCIK 1698893
+_usgovcik:1698893 to:label "TrackX Technology, LLC"
+_usgovcik:1698893 usgovsec:hasName "TrackX Technology, LLC"
+_usgovcik:1698901 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698901 usgovsec:hasCIK 1698901
+_usgovcik:1698901 to:label "Paulson ElectroCore Investments, LLC"
+_usgovcik:1698901 usgovsec:hasName "Paulson ElectroCore Investments, LLC"
+_usgovcik:1698904 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698904 usgovsec:hasCIK 1698904
+_usgovcik:1698904 to:label "Cardiosolv Ablation Technologies Inc."
+_usgovcik:1698904 usgovsec:hasName "Cardiosolv Ablation Technologies Inc."
+_usgovcik:1698918 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698918 usgovsec:hasCIK 1698918
+_usgovcik:1698918 to:label "FAM AUTO PORTFOLIO, LLC"
+_usgovcik:1698918 usgovsec:hasName "FAM AUTO PORTFOLIO, LLC"
+_usgovcik:1698919 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698919 usgovsec:hasCIK 1698919
+_usgovcik:1698919 to:label "Music Audience Exchange, Inc."
+_usgovcik:1698919 usgovsec:hasName "Music Audience Exchange, Inc."
+_usgovcik:1698920 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698920 usgovsec:hasCIK 1698920
+_usgovcik:1698920 to:label "Rainterra LLC"
+_usgovcik:1698920 usgovsec:hasName "Rainterra LLC"
+_usgovcik:1698929 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698929 usgovsec:hasCIK 1698929
+_usgovcik:1698929 to:label "samark technology Corp"
+_usgovcik:1698929 usgovsec:hasName "samark technology Corp"
+_usgovcik:1698932 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698932 usgovsec:hasCIK 1698932
+_usgovcik:1698932 to:label "Jobs Act Regulation A Plus Fund, LLC"
+_usgovcik:1698932 usgovsec:hasName "Jobs Act Regulation A Plus Fund, LLC"
+_usgovcik:1698933 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698933 usgovsec:hasCIK 1698933
+_usgovcik:1698933 to:label "Olympic Cascade Drive Ins LLC"
+_usgovcik:1698933 usgovsec:hasName "Olympic Cascade Drive Ins LLC"
+_usgovcik:1698958 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698958 usgovsec:hasCIK 1698958
+_usgovcik:1698958 to:label "Tenaron Capital Offshore Fund Ltd."
+_usgovcik:1698958 usgovsec:hasName "Tenaron Capital Offshore Fund Ltd."
+_usgovcik:1698983 to:type usgovsec:SECRegulatedEntity
+_usgovcik:1698983 usgovsec:hasCIK 1698983
+_usgovcik:1698983 to:label "RBI Louisville Investment Holdings II LLC"
+_usgovcik:1698983 usgovsec:hasName "RBI Louisville Investment Holdings II LLC"
+_usgovcik:17797 to:type usgovsec:SECRegulatedEntity
+_usgovcik:17797 usgovsec:hasCIK 17797
+_usgovcik:17797 to:label "DUKE ENERGY PROGRESS, LLC."
+_usgovcik:17797 usgovsec:hasName "DUKE ENERGY PROGRESS, LLC."
+_usgovcik:19411 to:type usgovsec:SECRegulatedEntity
+_usgovcik:19411 usgovsec:hasCIK 19411
+_usgovcik:19411 to:label "MAGELLAN HEALTH INC"
+_usgovcik:19411 usgovsec:hasName "MAGELLAN HEALTH INC"
+_usgovcik:202584 to:type usgovsec:SECRegulatedEntity
+_usgovcik:202584 usgovsec:hasCIK 202584
+_usgovcik:202584 to:label "SYSTEM ENERGY RESOURCES INC"
+_usgovcik:202584 usgovsec:hasName "SYSTEM ENERGY RESOURCES INC"
+_usgovcik:20286 to:type usgovsec:SECRegulatedEntity
+_usgovcik:20286 usgovsec:hasCIK 20286
+_usgovcik:20286 to:label "CINCINNATI FINANCIAL CORP"
+_usgovcik:20286 usgovsec:hasName "CINCINNATI FINANCIAL CORP"
+_usgovcik:20290 to:type usgovsec:SECRegulatedEntity
+_usgovcik:20290 usgovsec:hasCIK 20290
+_usgovcik:20290 to:label "Duke Energy Ohio, Inc."
+_usgovcik:20290 usgovsec:hasName "Duke Energy Ohio, Inc."
+_usgovcik:203596 to:type usgovsec:SECRegulatedEntity
+_usgovcik:203596 usgovsec:hasCIK 203596
+_usgovcik:203596 to:label "WESBANCO INC"
+_usgovcik:203596 usgovsec:hasName "WESBANCO INC"
+_usgovcik:21344 to:type usgovsec:SECRegulatedEntity
+_usgovcik:21344 usgovsec:hasCIK 21344
+_usgovcik:21344 to:label "COCA COLA CO"
+_usgovcik:21344 usgovsec:hasName "COCA COLA CO"
+_usgovcik:23111 to:type usgovsec:SECRegulatedEntity
+_usgovcik:23111 usgovsec:hasCIK 23111
+_usgovcik:23111 to:label "COMPUTER TASK GROUP INC"
+_usgovcik:23111 usgovsec:hasName "COMPUTER TASK GROUP INC"
+_usgovcik:23194 to:type usgovsec:SECRegulatedEntity
+_usgovcik:23194 usgovsec:hasCIK 23194
+_usgovcik:23194 to:label "COMSTOCK RESOURCES INC"
+_usgovcik:23194 usgovsec:hasName "COMSTOCK RESOURCES INC"
+_usgovcik:23795 to:type usgovsec:SECRegulatedEntity
+_usgovcik:23795 usgovsec:hasCIK 23795
+_usgovcik:23795 to:label "CONSOLIDATED TOMOKA LAND CO"
+_usgovcik:23795 usgovsec:hasName "CONSOLIDATED TOMOKA LAND CO"
+_usgovcik:26058 to:type usgovsec:SECRegulatedEntity
+_usgovcik:26058 usgovsec:hasCIK 26058
+_usgovcik:26058 to:label "CTS CORP"
+_usgovcik:26058 usgovsec:hasName "CTS CORP"
+_usgovcik:27673 to:type usgovsec:SECRegulatedEntity
+_usgovcik:27673 usgovsec:hasCIK 27673
+_usgovcik:27673 to:label "DEERE JOHN CAPITAL CORP"
+_usgovcik:27673 usgovsec:hasName "DEERE JOHN CAPITAL CORP"
+_usgovcik:27996 to:type usgovsec:SECRegulatedEntity
+_usgovcik:27996 usgovsec:hasCIK 27996
+_usgovcik:27996 to:label "DELUXE CORP"
+_usgovcik:27996 usgovsec:hasName "DELUXE CORP"
+_usgovcik:28823 to:type usgovsec:SECRegulatedEntity
+_usgovcik:28823 usgovsec:hasCIK 28823
+_usgovcik:28823 to:label "DIEBOLD NIXDORF, Inc"
+_usgovcik:28823 usgovsec:hasName "DIEBOLD NIXDORF, Inc"
+_usgovcik:30371 to:type usgovsec:SECRegulatedEntity
+_usgovcik:30371 usgovsec:hasCIK 30371
+_usgovcik:30371 to:label "Duke Energy Carolinas, LLC"
+_usgovcik:30371 usgovsec:hasName "Duke Energy Carolinas, LLC"
+_usgovcik:313927 to:type usgovsec:SECRegulatedEntity
+_usgovcik:313927 usgovsec:hasCIK 313927
+_usgovcik:313927 to:label "CHURCH & DWIGHT CO INC /DE/"
+_usgovcik:313927 usgovsec:hasName "CHURCH & DWIGHT CO INC /DE/"
+COMMIT
+START_TRANSACTION
+_usgovcik:31462 to:type usgovsec:SECRegulatedEntity
+_usgovcik:31462 usgovsec:hasCIK 31462
+_usgovcik:31462 to:label "ECOLAB INC."
+_usgovcik:31462 usgovsec:hasName "ECOLAB INC."
+_usgovcik:315189 to:type usgovsec:SECRegulatedEntity
+_usgovcik:315189 usgovsec:hasCIK 315189
+_usgovcik:315189 to:label "DEERE & CO"
+_usgovcik:315189 usgovsec:hasName "DEERE & CO"
+_usgovcik:315545 to:type usgovsec:SECRegulatedEntity
+_usgovcik:315545 usgovsec:hasCIK 315545
+_usgovcik:315545 to:label "PROVECTUS BIOPHARMACEUTICALS, INC."
+_usgovcik:315545 usgovsec:hasName "PROVECTUS BIOPHARMACEUTICALS, INC."
+_usgovcik:315849 to:type usgovsec:SECRegulatedEntity
+_usgovcik:315849 usgovsec:hasCIK 315849
+_usgovcik:315849 to:label "SOUTHWEST GEORGIA FINANCIAL CORP"
+_usgovcik:315849 usgovsec:hasName "SOUTHWEST GEORGIA FINANCIAL CORP"
+_usgovcik:318300 to:type usgovsec:SECRegulatedEntity
+_usgovcik:318300 usgovsec:hasCIK 318300
+_usgovcik:318300 to:label "PEOPLES BANCORP INC"
+_usgovcik:318300 usgovsec:hasName "PEOPLES BANCORP INC"
+_usgovcik:319458 to:type usgovsec:SECRegulatedEntity
+_usgovcik:319458 usgovsec:hasCIK 319458
+_usgovcik:319458 to:label "Enservco Corp"
+_usgovcik:319458 usgovsec:hasName "Enservco Corp"
+_usgovcik:31978 to:type usgovsec:SECRegulatedEntity
+_usgovcik:31978 usgovsec:hasCIK 31978
+_usgovcik:31978 to:label "EL PASO ELECTRIC CO /TX/"
+_usgovcik:31978 usgovsec:hasName "EL PASO ELECTRIC CO /TX/"
+_usgovcik:3453 to:type usgovsec:SECRegulatedEntity
+_usgovcik:3453 usgovsec:hasCIK 3453
+_usgovcik:3453 to:label "Matson, Inc."
+_usgovcik:3453 usgovsec:hasName "Matson, Inc."
+_usgovcik:352541 to:type usgovsec:SECRegulatedEntity
+_usgovcik:352541 usgovsec:hasCIK 352541
+_usgovcik:352541 to:label "ALLIANT ENERGY CORP"
+_usgovcik:352541 usgovsec:hasName "ALLIANT ENERGY CORP"
+_usgovcik:352736 to:type usgovsec:SECRegulatedEntity
+_usgovcik:352736 usgovsec:hasCIK 352736
+_usgovcik:352736 to:label "ALLSTATE LIFE INSURANCE CO"
+_usgovcik:352736 usgovsec:hasName "ALLSTATE LIFE INSURANCE CO"
+_usgovcik:354707 to:type usgovsec:SECRegulatedEntity
+_usgovcik:354707 usgovsec:hasCIK 354707
+_usgovcik:354707 to:label "HAWAIIAN ELECTRIC INDUSTRIES INC"
+_usgovcik:354707 usgovsec:hasName "HAWAIIAN ELECTRIC INDUSTRIES INC"
+_usgovcik:354908 to:type usgovsec:SECRegulatedEntity
+_usgovcik:354908 usgovsec:hasCIK 354908
+_usgovcik:354908 to:label "FLIR SYSTEMS INC"
+_usgovcik:354908 usgovsec:hasName "FLIR SYSTEMS INC"
+_usgovcik:35527 to:type usgovsec:SECRegulatedEntity
+_usgovcik:35527 usgovsec:hasCIK 35527
+_usgovcik:35527 to:label "FIFTH THIRD BANCORP"
+_usgovcik:35527 usgovsec:hasName "FIFTH THIRD BANCORP"
+_usgovcik:355429 to:type usgovsec:SECRegulatedEntity
+_usgovcik:355429 usgovsec:hasCIK 355429
+_usgovcik:355429 to:label "PROTECTIVE LIFE CORP"
+_usgovcik:355429 usgovsec:hasName "PROTECTIVE LIFE CORP"
+_usgovcik:3570 to:type usgovsec:SECRegulatedEntity
+_usgovcik:3570 usgovsec:hasCIK 3570
+_usgovcik:3570 to:label "CHENIERE ENERGY INC"
+_usgovcik:3570 usgovsec:hasName "CHENIERE ENERGY INC"
+_usgovcik:36047 to:type usgovsec:SECRegulatedEntity
+_usgovcik:36047 usgovsec:hasCIK 36047
+_usgovcik:36047 to:label "CORELOGIC, INC."
+_usgovcik:36047 usgovsec:hasName "CORELOGIC, INC."
+_usgovcik:37637 to:type usgovsec:SECRegulatedEntity
+_usgovcik:37637 usgovsec:hasCIK 37637
+_usgovcik:37637 to:label "DUKE ENERGY FLORIDA, LLC."
+_usgovcik:37637 usgovsec:hasName "DUKE ENERGY FLORIDA, LLC."
+_usgovcik:39677 to:type usgovsec:SECRegulatedEntity
+_usgovcik:39677 usgovsec:hasCIK 39677
+_usgovcik:39677 to:label "AV Homes, Inc."
+_usgovcik:39677 usgovsec:hasName "AV Homes, Inc."
+_usgovcik:40545 to:type usgovsec:SECRegulatedEntity
+_usgovcik:40545 usgovsec:hasCIK 40545
+_usgovcik:40545 to:label "GENERAL ELECTRIC CO"
+_usgovcik:40545 usgovsec:hasName "GENERAL ELECTRIC CO"
+_usgovcik:41719 to:type usgovsec:SECRegulatedEntity
+_usgovcik:41719 usgovsec:hasCIK 41719
+_usgovcik:41719 to:label "GLATFELTER P H CO"
+_usgovcik:41719 usgovsec:hasName "GLATFELTER P H CO"
+_usgovcik:45876 to:type usgovsec:SECRegulatedEntity
+_usgovcik:45876 usgovsec:hasCIK 45876
+_usgovcik:45876 to:label "HARSCO CORP"
+_usgovcik:45876 usgovsec:hasName "HARSCO CORP"
+_usgovcik:45947 to:type usgovsec:SECRegulatedEntity
+_usgovcik:45947 usgovsec:hasCIK 45947
+_usgovcik:45947 to:label "HARTFORD LIFE INSURANCE CO"
+_usgovcik:45947 usgovsec:hasName "HARTFORD LIFE INSURANCE CO"
+_usgovcik:46207 to:type usgovsec:SECRegulatedEntity
+_usgovcik:46207 usgovsec:hasCIK 46207
+_usgovcik:46207 to:label "HAWAIIAN ELECTRIC CO INC"
+_usgovcik:46207 usgovsec:hasName "HAWAIIAN ELECTRIC CO INC"
+_usgovcik:48287 to:type usgovsec:SECRegulatedEntity
+_usgovcik:48287 usgovsec:hasCIK 48287
+_usgovcik:48287 to:label "HNI CORP"
+_usgovcik:48287 usgovsec:hasName "HNI CORP"
+_usgovcik:4977 to:type usgovsec:SECRegulatedEntity
+_usgovcik:4977 usgovsec:hasCIK 4977
+_usgovcik:4977 to:label "AFLAC INC"
+_usgovcik:4977 usgovsec:hasName "AFLAC INC"
+_usgovcik:52485 to:type usgovsec:SECRegulatedEntity
+_usgovcik:52485 usgovsec:hasCIK 52485
+_usgovcik:52485 to:label "INTERSTATE POWER & LIGHT CO"
+_usgovcik:52485 usgovsec:hasName "INTERSTATE POWER & LIGHT CO"
+_usgovcik:52827 to:type usgovsec:SECRegulatedEntity
+_usgovcik:52827 usgovsec:hasCIK 52827
+_usgovcik:52827 to:label "RAYONIER INC"
+_usgovcik:52827 usgovsec:hasName "RAYONIER INC"
+_usgovcik:54480 to:type usgovsec:SECRegulatedEntity
+_usgovcik:54480 usgovsec:hasCIK 54480
+_usgovcik:54480 to:label "KANSAS CITY SOUTHERN"
+_usgovcik:54480 usgovsec:hasName "KANSAS CITY SOUTHERN"
+_usgovcik:55067 to:type usgovsec:SECRegulatedEntity
+_usgovcik:55067 usgovsec:hasCIK 55067
+_usgovcik:55067 to:label "KELLOGG CO"
+_usgovcik:55067 usgovsec:hasName "KELLOGG CO"
+_usgovcik:59527 to:type usgovsec:SECRegulatedEntity
+_usgovcik:59527 usgovsec:hasCIK 59527
+_usgovcik:59527 to:label "LINCOLN ELECTRIC HOLDINGS INC"
+_usgovcik:59527 usgovsec:hasName "LINCOLN ELECTRIC HOLDINGS INC"
+_usgovcik:61339 to:type usgovsec:SECRegulatedEntity
+_usgovcik:61339 usgovsec:hasCIK 61339
+_usgovcik:61339 to:label "MADISON GAS & ELECTRIC CO"
+_usgovcik:61339 usgovsec:hasName "MADISON GAS & ELECTRIC CO"
+_usgovcik:62709 to:type usgovsec:SECRegulatedEntity
+_usgovcik:62709 usgovsec:hasCIK 62709
+_usgovcik:62709 to:label "MARSH & MCLENNAN COMPANIES, INC."
+_usgovcik:62709 usgovsec:hasName "MARSH & MCLENNAN COMPANIES, INC."
+_usgovcik:63330 to:type usgovsec:SECRegulatedEntity
+_usgovcik:63330 usgovsec:hasCIK 63330
+_usgovcik:63330 to:label "MAUI LAND & PINEAPPLE CO INC"
+_usgovcik:63330 usgovsec:hasName "MAUI LAND & PINEAPPLE CO INC"
+_usgovcik:65984 to:type usgovsec:SECRegulatedEntity
+_usgovcik:65984 usgovsec:hasCIK 65984
+_usgovcik:65984 to:label "ENTERGY CORP /DE/"
+_usgovcik:65984 usgovsec:hasName "ENTERGY CORP /DE/"
+_usgovcik:66570 to:type usgovsec:SECRegulatedEntity
+_usgovcik:66570 usgovsec:hasCIK 66570
+_usgovcik:66570 to:label "MSA Safety Inc"
+_usgovcik:66570 usgovsec:hasName "MSA Safety Inc"
+_usgovcik:66901 to:type usgovsec:SECRegulatedEntity
+_usgovcik:66901 usgovsec:hasCIK 66901
+_usgovcik:66901 to:label "ENTERGY MISSISSIPPI INC"
+_usgovcik:66901 usgovsec:hasName "ENTERGY MISSISSIPPI INC"
+_usgovcik:6769 to:type usgovsec:SECRegulatedEntity
+_usgovcik:6769 usgovsec:hasCIK 6769
+_usgovcik:6769 to:label "APACHE CORP"
+_usgovcik:6769 usgovsec:hasName "APACHE CORP"
+_usgovcik:67716 to:type usgovsec:SECRegulatedEntity
+_usgovcik:67716 usgovsec:hasCIK 67716
+_usgovcik:67716 to:label "MDU RESOURCES GROUP INC"
+_usgovcik:67716 usgovsec:hasName "MDU RESOURCES GROUP INC"
+_usgovcik:701221 to:type usgovsec:SECRegulatedEntity
+_usgovcik:701221 usgovsec:hasCIK 701221
+_usgovcik:701221 to:label "CIGNA CORP"
+_usgovcik:701221 usgovsec:hasName "CIGNA CORP"
+_usgovcik:701811 to:type usgovsec:SECRegulatedEntity
+_usgovcik:701811 usgovsec:hasCIK 701811
+_usgovcik:701811 to:label "MENTOR GRAPHICS CORP"
+_usgovcik:701811 usgovsec:hasName "MENTOR GRAPHICS CORP"
+_usgovcik:702325 to:type usgovsec:SECRegulatedEntity
+_usgovcik:702325 usgovsec:hasCIK 702325
+_usgovcik:702325 to:label "FIRST MIDWEST BANCORP INC"
+_usgovcik:702325 usgovsec:hasName "FIRST MIDWEST BANCORP INC"
+_usgovcik:705432 to:type usgovsec:SECRegulatedEntity
+_usgovcik:705432 usgovsec:hasCIK 705432
+_usgovcik:705432 to:label "SOUTHSIDE BANCSHARES INC"
+_usgovcik:705432 usgovsec:hasName "SOUTHSIDE BANCSHARES INC"
+_usgovcik:706688 to:type usgovsec:SECRegulatedEntity
+_usgovcik:706688 usgovsec:hasCIK 706688
+_usgovcik:706688 to:label "AARON'S INC"
+_usgovcik:706688 usgovsec:hasName "AARON'S INC"
+_usgovcik:707388 to:type usgovsec:SECRegulatedEntity
+_usgovcik:707388 usgovsec:hasCIK 707388
+_usgovcik:707388 to:label "DIGIRAD CORP"
+_usgovcik:707388 usgovsec:hasName "DIGIRAD CORP"
+_usgovcik:70866 to:type usgovsec:SECRegulatedEntity
+_usgovcik:70866 usgovsec:hasCIK 70866
+_usgovcik:70866 to:label "NCR CORP"
+_usgovcik:70866 usgovsec:hasName "NCR CORP"
+_usgovcik:708955 to:type usgovsec:SECRegulatedEntity
+_usgovcik:708955 usgovsec:hasCIK 708955
+_usgovcik:708955 to:label "FIRST FINANCIAL BANCORP /OH/"
+_usgovcik:708955 usgovsec:hasName "FIRST FINANCIAL BANCORP /OH/"
+_usgovcik:71508 to:type usgovsec:SECRegulatedEntity
+_usgovcik:71508 usgovsec:hasCIK 71508
+_usgovcik:71508 to:label "ENTERGY NEW ORLEANS INC"
+_usgovcik:71508 usgovsec:hasName "ENTERGY NEW ORLEANS INC"
+_usgovcik:715788 to:type usgovsec:SECRegulatedEntity
+_usgovcik:715788 usgovsec:hasCIK 715788
+_usgovcik:715788 to:label "SIGNAL BAY, INC."
+_usgovcik:715788 usgovsec:hasName "SIGNAL BAY, INC."
+_usgovcik:716006 to:type usgovsec:SECRegulatedEntity
+_usgovcik:716006 usgovsec:hasCIK 716006
+_usgovcik:716006 to:label "YRC Worldwide Inc."
+_usgovcik:716006 usgovsec:hasName "YRC Worldwide Inc."
+_usgovcik:716133 to:type usgovsec:SECRegulatedEntity
+_usgovcik:716133 usgovsec:hasCIK 716133
+_usgovcik:716133 to:label "CINCINNATI BELL INC"
+_usgovcik:716133 usgovsec:hasName "CINCINNATI BELL INC"
+COMMIT
+START_TRANSACTION
+_usgovcik:717423 to:type usgovsec:SECRegulatedEntity
+_usgovcik:717423 usgovsec:hasCIK 717423
+_usgovcik:717423 to:label "MURPHY OIL CORP /DE"
+_usgovcik:717423 usgovsec:hasName "MURPHY OIL CORP /DE"
+_usgovcik:71829 to:type usgovsec:SECRegulatedEntity
+_usgovcik:71829 usgovsec:hasCIK 71829
+_usgovcik:71829 to:label "NEWPARK RESOURCES INC"
+_usgovcik:71829 usgovsec:hasName "NEWPARK RESOURCES INC"
+_usgovcik:719220 to:type usgovsec:SECRegulatedEntity
+_usgovcik:719220 usgovsec:hasCIK 719220
+_usgovcik:719220 to:label "S&T BANCORP INC"
+_usgovcik:719220 usgovsec:hasName "S&T BANCORP INC"
+_usgovcik:721683 to:type usgovsec:SECRegulatedEntity
+_usgovcik:721683 usgovsec:hasCIK 721683
+_usgovcik:721683 to:label "TOTAL SYSTEM SERVICES INC"
+_usgovcik:721683 usgovsec:hasName "TOTAL SYSTEM SERVICES INC"
+_usgovcik:72207 to:type usgovsec:SECRegulatedEntity
+_usgovcik:72207 usgovsec:hasCIK 72207
+_usgovcik:72207 to:label "NOBLE ENERGY INC"
+_usgovcik:72207 usgovsec:hasName "NOBLE ENERGY INC"
+_usgovcik:727538 to:type usgovsec:SECRegulatedEntity
+_usgovcik:727538 usgovsec:hasCIK 727538
+_usgovcik:727538 to:label "APACHE OFFSHORE INVESTMENT PARTNERSHIP"
+_usgovcik:727538 usgovsec:hasName "APACHE OFFSHORE INVESTMENT PARTNERSHIP"
+_usgovcik:728391 to:type usgovsec:SECRegulatedEntity
+_usgovcik:728391 usgovsec:hasCIK 728391
+_usgovcik:728391 to:label "IPALCO ENTERPRISES, INC."
+_usgovcik:728391 usgovsec:hasName "IPALCO ENTERPRISES, INC."
+_usgovcik:7286 to:type usgovsec:SECRegulatedEntity
+_usgovcik:7286 usgovsec:hasCIK 7286
+_usgovcik:7286 to:label "ARIZONA PUBLIC SERVICE CO"
+_usgovcik:7286 usgovsec:hasName "ARIZONA PUBLIC SERVICE CO"
+_usgovcik:72903 to:type usgovsec:SECRegulatedEntity
+_usgovcik:72903 usgovsec:hasCIK 72903
+_usgovcik:72903 to:label "XCEL ENERGY INC"
+_usgovcik:72903 usgovsec:hasName "XCEL ENERGY INC"
+_usgovcik:72909 to:type usgovsec:SECRegulatedEntity
+_usgovcik:72909 usgovsec:hasCIK 72909
+_usgovcik:72909 to:label "NORTHERN STATES POWER CO /WI/"
+_usgovcik:72909 usgovsec:hasName "NORTHERN STATES POWER CO /WI/"
+_usgovcik:72971 to:type usgovsec:SECRegulatedEntity
+_usgovcik:72971 usgovsec:hasCIK 72971
+_usgovcik:72971 to:label "WELLS FARGO & COMPANY/MN"
+_usgovcik:72971 usgovsec:hasName "WELLS FARGO & COMPANY/MN"
+_usgovcik:731012 to:type usgovsec:SECRegulatedEntity
+_usgovcik:731012 usgovsec:hasCIK 731012
+_usgovcik:731012 to:label "HEALTHCARE SERVICES GROUP INC"
+_usgovcik:731012 usgovsec:hasName "HEALTHCARE SERVICES GROUP INC"
+_usgovcik:7323 to:type usgovsec:SECRegulatedEntity
+_usgovcik:7323 usgovsec:hasCIK 7323
+_usgovcik:7323 to:label "ENTERGY ARKANSAS INC"
+_usgovcik:7323 usgovsec:hasName "ENTERGY ARKANSAS INC"
+_usgovcik:73756 to:type usgovsec:SECRegulatedEntity
+_usgovcik:73756 usgovsec:hasCIK 73756
+_usgovcik:73756 to:label "OCEANEERING INTERNATIONAL INC"
+_usgovcik:73756 usgovsec:hasName "OCEANEERING INTERNATIONAL INC"
+_usgovcik:750556 to:type usgovsec:SECRegulatedEntity
+_usgovcik:750556 usgovsec:hasCIK 750556
+_usgovcik:750556 to:label "SUNTRUST BANKS INC"
+_usgovcik:750556 usgovsec:hasName "SUNTRUST BANKS INC"
+_usgovcik:750577 to:type usgovsec:SECRegulatedEntity
+_usgovcik:750577 usgovsec:hasCIK 750577
+_usgovcik:750577 to:label "HANCOCK HOLDING CO"
+_usgovcik:750577 usgovsec:hasName "HANCOCK HOLDING CO"
+_usgovcik:752294 to:type usgovsec:SECRegulatedEntity
+_usgovcik:752294 usgovsec:hasCIK 752294
+_usgovcik:752294 to:label "ELECTRONIC SYSTEMS TECHNOLOGY INC"
+_usgovcik:752294 usgovsec:hasName "ELECTRONIC SYSTEMS TECHNOLOGY INC"
+_usgovcik:754737 to:type usgovsec:SECRegulatedEntity
+_usgovcik:754737 usgovsec:hasCIK 754737
+_usgovcik:754737 to:label "SCANA CORP"
+_usgovcik:754737 usgovsec:hasName "SCANA CORP"
+_usgovcik:75488 to:type usgovsec:SECRegulatedEntity
+_usgovcik:75488 usgovsec:hasCIK 75488
+_usgovcik:75488 to:label "PACIFIC GAS & ELECTRIC Co"
+_usgovcik:75488 usgovsec:hasName "PACIFIC GAS & ELECTRIC Co"
+_usgovcik:759944 to:type usgovsec:SECRegulatedEntity
+_usgovcik:759944 usgovsec:hasCIK 759944
+_usgovcik:759944 to:label "CITIZENS FINANCIAL GROUP INC/RI"
+_usgovcik:759944 usgovsec:hasName "CITIZENS FINANCIAL GROUP INC/RI"
+_usgovcik:76063 to:type usgovsec:SECRegulatedEntity
+_usgovcik:76063 usgovsec:hasCIK 76063
+_usgovcik:76063 to:label "PANHANDLE EASTERN PIPE LINE CO LP"
+_usgovcik:76063 usgovsec:hasName "PANHANDLE EASTERN PIPE LINE CO LP"
+_usgovcik:763744 to:type usgovsec:SECRegulatedEntity
+_usgovcik:763744 usgovsec:hasCIK 763744
+_usgovcik:763744 to:label "LCI INDUSTRIES"
+_usgovcik:763744 usgovsec:hasName "LCI INDUSTRIES"
+_usgovcik:764038 to:type usgovsec:SECRegulatedEntity
+_usgovcik:764038 usgovsec:hasCIK 764038
+_usgovcik:764038 to:label "SOUTH STATE Corp"
+_usgovcik:764038 usgovsec:hasName "SOUTH STATE Corp"
+_usgovcik:764622 to:type usgovsec:SECRegulatedEntity
+_usgovcik:764622 usgovsec:hasCIK 764622
+_usgovcik:764622 to:label "PINNACLE WEST CAPITAL CORP"
+_usgovcik:764622 usgovsec:hasName "PINNACLE WEST CAPITAL CORP"
+_usgovcik:766701 to:type usgovsec:SECRegulatedEntity
+_usgovcik:766701 usgovsec:hasCIK 766701
+_usgovcik:766701 to:label "CAPSTEAD MORTGAGE CORP"
+_usgovcik:766701 usgovsec:hasName "CAPSTEAD MORTGAGE CORP"
+_usgovcik:768899 to:type usgovsec:SECRegulatedEntity
+_usgovcik:768899 usgovsec:hasCIK 768899
+_usgovcik:768899 to:label "TrueBlue, Inc."
+_usgovcik:768899 usgovsec:hasName "TrueBlue, Inc."
+_usgovcik:769397 to:type usgovsec:SECRegulatedEntity
+_usgovcik:769397 usgovsec:hasCIK 769397
+_usgovcik:769397 to:label "AUTODESK INC"
+_usgovcik:769397 usgovsec:hasName "AUTODESK INC"
+_usgovcik:77281 to:type usgovsec:SECRegulatedEntity
+_usgovcik:77281 usgovsec:hasCIK 77281
+_usgovcik:77281 to:label "PENNSYLVANIA REAL ESTATE INVESTMENT TRUST"
+_usgovcik:77281 usgovsec:hasName "PENNSYLVANIA REAL ESTATE INVESTMENT TRUST"
+_usgovcik:78128 to:type usgovsec:SECRegulatedEntity
+_usgovcik:78128 usgovsec:hasCIK 78128
+_usgovcik:78128 to:label "AQUA AMERICA INC"
+_usgovcik:78128 usgovsec:hasName "AQUA AMERICA INC"
+_usgovcik:783280 to:type usgovsec:SECRegulatedEntity
+_usgovcik:783280 usgovsec:hasCIK 783280
+_usgovcik:783280 to:label "DUKE REALTY CORP"
+_usgovcik:783280 usgovsec:hasName "DUKE REALTY CORP"
+_usgovcik:783324 to:type usgovsec:SECRegulatedEntity
+_usgovcik:783324 usgovsec:hasCIK 783324
+_usgovcik:783324 to:label "VISTA GOLD CORP"
+_usgovcik:783324 usgovsec:hasName "VISTA GOLD CORP"
+_usgovcik:786947 to:type usgovsec:SECRegulatedEntity
+_usgovcik:786947 usgovsec:hasCIK 786947
+_usgovcik:786947 to:label "ACURA PHARMACEUTICALS, INC"
+_usgovcik:786947 usgovsec:hasName "ACURA PHARMACEUTICALS, INC"
+_usgovcik:788784 to:type usgovsec:SECRegulatedEntity
+_usgovcik:788784 usgovsec:hasCIK 788784
+_usgovcik:788784 to:label "PUBLIC SERVICE ENTERPRISE GROUP INC"
+_usgovcik:788784 usgovsec:hasName "PUBLIC SERVICE ENTERPRISE GROUP INC"
+_usgovcik:78890 to:type usgovsec:SECRegulatedEntity
+_usgovcik:78890 usgovsec:hasCIK 78890
+_usgovcik:78890 to:label "BRINKS CO"
+_usgovcik:78890 usgovsec:hasName "BRINKS CO"
+_usgovcik:789132 to:type usgovsec:SECRegulatedEntity
+_usgovcik:789132 usgovsec:hasCIK 789132
+_usgovcik:789132 to:label "SPECTRANETICS CORP"
+_usgovcik:789132 usgovsec:hasName "SPECTRANETICS CORP"
+_usgovcik:790051 to:type usgovsec:SECRegulatedEntity
+_usgovcik:790051 usgovsec:hasCIK 790051
+_usgovcik:790051 to:label "CARLISLE COMPANIES INC"
+_usgovcik:790051 usgovsec:hasName "CARLISLE COMPANIES INC"
+_usgovcik:792130 to:type usgovsec:SECRegulatedEntity
+_usgovcik:792130 usgovsec:hasCIK 792130
+_usgovcik:792130 to:label "DATAWATCH CORP"
+_usgovcik:792130 usgovsec:hasName "DATAWATCH CORP"
+_usgovcik:79282 to:type usgovsec:SECRegulatedEntity
+_usgovcik:79282 usgovsec:hasCIK 79282
+_usgovcik:79282 to:label "BROWN & BROWN INC"
+_usgovcik:79282 usgovsec:hasName "BROWN & BROWN INC"
+_usgovcik:792987 to:type usgovsec:SECRegulatedEntity
+_usgovcik:792987 usgovsec:hasCIK 792987
+_usgovcik:792987 to:label "ASTEC INDUSTRIES INC"
+_usgovcik:792987 usgovsec:hasName "ASTEC INDUSTRIES INC"
+_usgovcik:794323 to:type usgovsec:SECRegulatedEntity
+_usgovcik:794323 usgovsec:hasCIK 794323
+_usgovcik:794323 to:label "LEVEL 3 COMMUNICATIONS INC"
+_usgovcik:794323 usgovsec:hasName "LEVEL 3 COMMUNICATIONS INC"
+_usgovcik:794367 to:type usgovsec:SECRegulatedEntity
+_usgovcik:794367 usgovsec:hasCIK 794367
+_usgovcik:794367 to:label "Macy's, Inc."
+_usgovcik:794367 usgovsec:hasName "Macy's, Inc."
+_usgovcik:795403 to:type usgovsec:SECRegulatedEntity
+_usgovcik:795403 usgovsec:hasCIK 795403
+_usgovcik:795403 to:label "WATTS WATER TECHNOLOGIES INC"
+_usgovcik:795403 usgovsec:hasName "WATTS WATER TECHNOLOGIES INC"
+_usgovcik:796505 to:type usgovsec:SECRegulatedEntity
+_usgovcik:796505 usgovsec:hasCIK 796505
+_usgovcik:796505 to:label "Clearfield, Inc."
+_usgovcik:796505 usgovsec:hasName "Clearfield, Inc."
+_usgovcik:796764 to:type usgovsec:SECRegulatedEntity
+_usgovcik:796764 usgovsec:hasCIK 796764
+_usgovcik:796764 to:label "PREMIER EXHIBITIONS, INC."
+_usgovcik:796764 usgovsec:hasName "PREMIER EXHIBITIONS, INC."
+_usgovcik:798941 to:type usgovsec:SECRegulatedEntity
+_usgovcik:798941 usgovsec:hasCIK 798941
+_usgovcik:798941 to:label "FIRST CITIZENS BANCSHARES INC /DE/"
+_usgovcik:798941 usgovsec:hasName "FIRST CITIZENS BANCSHARES INC /DE/"
+_usgovcik:799698 to:type usgovsec:SECRegulatedEntity
+_usgovcik:799698 usgovsec:hasCIK 799698
+_usgovcik:799698 to:label "CYTRX CORP"
+_usgovcik:799698 usgovsec:hasName "CYTRX CORP"
+_usgovcik:805022 to:type usgovsec:SECRegulatedEntity
+_usgovcik:805022 usgovsec:hasCIK 805022
+_usgovcik:805022 to:label "BUCKEYE PARTNERS, L.P."
+_usgovcik:805022 usgovsec:hasName "BUCKEYE PARTNERS, L.P."
+_usgovcik:8063 to:type usgovsec:SECRegulatedEntity
+_usgovcik:8063 usgovsec:hasCIK 8063
+_usgovcik:8063 to:label "ASTRONICS CORP"
+_usgovcik:8063 usgovsec:hasName "ASTRONICS CORP"
+_usgovcik:81018 to:type usgovsec:SECRegulatedEntity
+_usgovcik:81018 usgovsec:hasCIK 81018
+_usgovcik:81018 to:label "PUBLIC SERVICE CO OF COLORADO"
+_usgovcik:81018 usgovsec:hasName "PUBLIC SERVICE CO OF COLORADO"
+_usgovcik:81020 to:type usgovsec:SECRegulatedEntity
+_usgovcik:81020 usgovsec:hasCIK 81020
+_usgovcik:81020 to:label "Duke Energy Indiana, LLC"
+_usgovcik:81020 usgovsec:hasName "Duke Energy Indiana, LLC"
+COMMIT
+START_TRANSACTION
+_usgovcik:81033 to:type usgovsec:SECRegulatedEntity
+_usgovcik:81033 usgovsec:hasCIK 81033
+_usgovcik:81033 to:label "PUBLIC SERVICE ELECTRIC & GAS CO"
+_usgovcik:81033 usgovsec:hasName "PUBLIC SERVICE ELECTRIC & GAS CO"
+_usgovcik:811532 to:type usgovsec:SECRegulatedEntity
+_usgovcik:811532 usgovsec:hasCIK 811532
+_usgovcik:811532 to:label "CEDAR FAIR L P"
+_usgovcik:811532 usgovsec:hasName "CEDAR FAIR L P"
+_usgovcik:812701 to:type usgovsec:SECRegulatedEntity
+_usgovcik:812701 usgovsec:hasCIK 812701
+_usgovcik:812701 to:label "CALGON CARBON Corp"
+_usgovcik:812701 usgovsec:hasName "CALGON CARBON Corp"
+_usgovcik:821130 to:type usgovsec:SECRegulatedEntity
+_usgovcik:821130 usgovsec:hasCIK 821130
+_usgovcik:821130 to:label "UNITED STATES CELLULAR CORP"
+_usgovcik:821130 usgovsec:hasName "UNITED STATES CELLULAR CORP"
+_usgovcik:827187 to:type usgovsec:SECRegulatedEntity
+_usgovcik:827187 usgovsec:hasCIK 827187
+_usgovcik:827187 to:label "SELECT COMFORT CORP"
+_usgovcik:827187 usgovsec:hasName "SELECT COMFORT CORP"
+_usgovcik:830616 to:type usgovsec:SECRegulatedEntity
+_usgovcik:830616 usgovsec:hasCIK 830616
+_usgovcik:830616 to:label "SCI Engineered Materials, Inc."
+_usgovcik:830616 usgovsec:hasName "SCI Engineered Materials, Inc."
+_usgovcik:831001 to:type usgovsec:SECRegulatedEntity
+_usgovcik:831001 usgovsec:hasCIK 831001
+_usgovcik:831001 to:label "CITIGROUP INC"
+_usgovcik:831001 usgovsec:hasName "CITIGROUP INC"
+_usgovcik:831259 to:type usgovsec:SECRegulatedEntity
+_usgovcik:831259 usgovsec:hasCIK 831259
+_usgovcik:831259 to:label "FREEPORT-MCMORAN INC"
+_usgovcik:831259 usgovsec:hasName "FREEPORT-MCMORAN INC"
+_usgovcik:832428 to:type usgovsec:SECRegulatedEntity
+_usgovcik:832428 usgovsec:hasCIK 832428
+_usgovcik:832428 to:label "E.W. SCRIPPS Co"
+_usgovcik:832428 usgovsec:hasName "E.W. SCRIPPS Co"
+_usgovcik:842183 to:type usgovsec:SECRegulatedEntity
+_usgovcik:842183 usgovsec:hasCIK 842183
+_usgovcik:842183 to:label "RAMCO GERSHENSON PROPERTIES TRUST"
+_usgovcik:842183 usgovsec:hasName "RAMCO GERSHENSON PROPERTIES TRUST"
+_usgovcik:84246 to:type usgovsec:SECRegulatedEntity
+_usgovcik:84246 usgovsec:hasCIK 84246
+_usgovcik:84246 to:label "RLI CORP"
+_usgovcik:84246 usgovsec:hasName "RLI CORP"
+_usgovcik:844538 to:type usgovsec:SECRegulatedEntity
+_usgovcik:844538 usgovsec:hasCIK 844538
+_usgovcik:844538 to:label "TROPIC INTERNATIONAL INC."
+_usgovcik:844538 usgovsec:hasName "TROPIC INTERNATIONAL INC."
+_usgovcik:84839 to:type usgovsec:SECRegulatedEntity
+_usgovcik:84839 usgovsec:hasCIK 84839
+_usgovcik:84839 to:label "ROLLINS INC"
+_usgovcik:84839 usgovsec:hasName "ROLLINS INC"
+_usgovcik:850209 to:type usgovsec:SECRegulatedEntity
+_usgovcik:850209 usgovsec:hasCIK 850209
+_usgovcik:850209 to:label "FOOT LOCKER, INC."
+_usgovcik:850209 usgovsec:hasName "FOOT LOCKER, INC."
+_usgovcik:850429 to:type usgovsec:SECRegulatedEntity
+_usgovcik:850429 usgovsec:hasCIK 850429
+_usgovcik:850429 to:label "TREDEGAR CORP"
+_usgovcik:850429 usgovsec:hasName "TREDEGAR CORP"
+_usgovcik:850460 to:type usgovsec:SECRegulatedEntity
+_usgovcik:850460 usgovsec:hasCIK 850460
+_usgovcik:850460 to:label "ENCORE WIRE CORP"
+_usgovcik:850460 usgovsec:hasName "ENCORE WIRE CORP"
+_usgovcik:851520 to:type usgovsec:SECRegulatedEntity
+_usgovcik:851520 usgovsec:hasCIK 851520
+_usgovcik:851520 to:label "EXPONENT INC"
+_usgovcik:851520 usgovsec:hasName "EXPONENT INC"
+_usgovcik:853816 to:type usgovsec:SECRegulatedEntity
+_usgovcik:853816 usgovsec:hasCIK 853816
+_usgovcik:853816 to:label "LANDSTAR SYSTEM INC"
+_usgovcik:853816 usgovsec:hasName "LANDSTAR SYSTEM INC"
+_usgovcik:85408 to:type usgovsec:SECRegulatedEntity
+_usgovcik:85408 usgovsec:hasCIK 85408
+_usgovcik:85408 to:label "ROWAN COMPANIES PLC"
+_usgovcik:85408 usgovsec:hasName "ROWAN COMPANIES PLC"
+_usgovcik:855931 to:type usgovsec:SECRegulatedEntity
+_usgovcik:855931 usgovsec:hasCIK 855931
+_usgovcik:855931 to:label "POTASH CORP OF SASKATCHEWAN INC"
+_usgovcik:855931 usgovsec:hasName "POTASH CORP OF SASKATCHEWAN INC"
+_usgovcik:858470 to:type usgovsec:SECRegulatedEntity
+_usgovcik:858470 usgovsec:hasCIK 858470
+_usgovcik:858470 to:label "CABOT OIL & GAS CORP"
+_usgovcik:858470 usgovsec:hasName "CABOT OIL & GAS CORP"
+_usgovcik:861884 to:type usgovsec:SECRegulatedEntity
+_usgovcik:861884 usgovsec:hasCIK 861884
+_usgovcik:861884 to:label "RELIANCE STEEL & ALUMINUM CO"
+_usgovcik:861884 usgovsec:hasName "RELIANCE STEEL & ALUMINUM CO"
+_usgovcik:863015 to:type usgovsec:SECRegulatedEntity
+_usgovcik:863015 usgovsec:hasCIK 863015
+_usgovcik:863015 to:label "ISLE OF CAPRI CASINOS INC"
+_usgovcik:863015 usgovsec:hasName "ISLE OF CAPRI CASINOS INC"
+_usgovcik:864749 to:type usgovsec:SECRegulatedEntity
+_usgovcik:864749 usgovsec:hasCIK 864749
+_usgovcik:864749 to:label "TRIMBLE INC."
+_usgovcik:864749 usgovsec:hasName "TRIMBLE INC."
+_usgovcik:866368 to:type usgovsec:SECRegulatedEntity
+_usgovcik:866368 usgovsec:hasCIK 866368
+_usgovcik:866368 to:label "PS BUSINESS PARKS INC/CA"
+_usgovcik:866368 usgovsec:hasName "PS BUSINESS PARKS INC/CA"
+_usgovcik:866829 to:type usgovsec:SECRegulatedEntity
+_usgovcik:866829 usgovsec:hasCIK 866829
+_usgovcik:866829 to:label "HELIX ENERGY SOLUTIONS GROUP INC"
+_usgovcik:866829 usgovsec:hasName "HELIX ENERGY SOLUTIONS GROUP INC"
+_usgovcik:868278 to:type usgovsec:SECRegulatedEntity
+_usgovcik:868278 usgovsec:hasCIK 868278
+_usgovcik:868278 to:label "ProPhase Labs, Inc."
+_usgovcik:868278 usgovsec:hasName "ProPhase Labs, Inc."
+_usgovcik:874499 to:type usgovsec:SECRegulatedEntity
+_usgovcik:874499 usgovsec:hasCIK 874499
+_usgovcik:874499 to:label "GULFPORT ENERGY CORP"
+_usgovcik:874499 usgovsec:hasName "GULFPORT ENERGY CORP"
+_usgovcik:874761 to:type usgovsec:SECRegulatedEntity
+_usgovcik:874761 usgovsec:hasCIK 874761
+_usgovcik:874761 to:label "AES CORP"
+_usgovcik:874761 usgovsec:hasName "AES CORP"
+_usgovcik:874766 to:type usgovsec:SECRegulatedEntity
+_usgovcik:874766 usgovsec:hasCIK 874766
+_usgovcik:874766 to:label "HARTFORD FINANCIAL SERVICES GROUP INC/DE"
+_usgovcik:874766 usgovsec:hasName "HARTFORD FINANCIAL SERVICES GROUP INC/DE"
+_usgovcik:878526 to:type usgovsec:SECRegulatedEntity
+_usgovcik:878526 usgovsec:hasCIK 878526
+_usgovcik:878526 to:label "NATUS MEDICAL INC"
+_usgovcik:878526 usgovsec:hasName "NATUS MEDICAL INC"
+_usgovcik:88205 to:type usgovsec:SECRegulatedEntity
+_usgovcik:88205 usgovsec:hasCIK 88205
+_usgovcik:88205 to:label "SPX CORP"
+_usgovcik:88205 usgovsec:hasName "SPX CORP"
+_usgovcik:883902 to:type usgovsec:SECRegulatedEntity
+_usgovcik:883902 usgovsec:hasCIK 883902
+_usgovcik:883902 to:label "NCI BUILDING SYSTEMS INC"
+_usgovcik:883902 usgovsec:hasName "NCI BUILDING SYSTEMS INC"
+_usgovcik:883975 to:type usgovsec:SECRegulatedEntity
+_usgovcik:883975 usgovsec:hasCIK 883975
+_usgovcik:883975 to:label "Microbot Medical Inc."
+_usgovcik:883975 usgovsec:hasName "Microbot Medical Inc."
+_usgovcik:883980 to:type usgovsec:SECRegulatedEntity
+_usgovcik:883980 usgovsec:hasCIK 883980
+_usgovcik:883980 to:label "FIRST DATA CORP"
+_usgovcik:883980 usgovsec:hasName "FIRST DATA CORP"
+_usgovcik:886035 to:type usgovsec:SECRegulatedEntity
+_usgovcik:886035 usgovsec:hasCIK 886035
+_usgovcik:886035 to:label "GENERAL CABLE CORP /DE/"
+_usgovcik:886035 usgovsec:hasName "GENERAL CABLE CORP /DE/"
+_usgovcik:886835 to:type usgovsec:SECRegulatedEntity
+_usgovcik:886835 usgovsec:hasCIK 886835
+_usgovcik:886835 to:label "SUPERIOR ENERGY SERVICES INC"
+_usgovcik:886835 usgovsec:hasName "SUPERIOR ENERGY SERVICES INC"
+_usgovcik:888491 to:type usgovsec:SECRegulatedEntity
+_usgovcik:888491 usgovsec:hasCIK 888491
+_usgovcik:888491 to:label "OMEGA HEALTHCARE INVESTORS INC"
+_usgovcik:888491 usgovsec:hasName "OMEGA HEALTHCARE INVESTORS INC"
+_usgovcik:891166 to:type usgovsec:SECRegulatedEntity
+_usgovcik:891166 usgovsec:hasCIK 891166
+_usgovcik:891166 to:label "UNIVERSAL INSURANCE HOLDINGS, INC."
+_usgovcik:891166 usgovsec:hasName "UNIVERSAL INSURANCE HOLDINGS, INC."
+_usgovcik:892160 to:type usgovsec:SECRegulatedEntity
+_usgovcik:892160 usgovsec:hasCIK 892160
+_usgovcik:892160 to:label "DERMA SCIENCES, INC."
+_usgovcik:892160 usgovsec:hasName "DERMA SCIENCES, INC."
+_usgovcik:896493 to:type usgovsec:SECRegulatedEntity
+_usgovcik:896493 usgovsec:hasCIK 896493
+_usgovcik:896493 to:label "DIGITAL POWER CORP"
+_usgovcik:896493 usgovsec:hasName "DIGITAL POWER CORP"
+_usgovcik:897078 to:type usgovsec:SECRegulatedEntity
+_usgovcik:897078 usgovsec:hasCIK 897078
+_usgovcik:897078 to:label "Textmunication Holdings, Inc."
+_usgovcik:897078 usgovsec:hasName "Textmunication Holdings, Inc."
+_usgovcik:897429 to:type usgovsec:SECRegulatedEntity
+_usgovcik:897429 usgovsec:hasCIK 897429
+_usgovcik:897429 to:label "CHICOS FAS INC"
+_usgovcik:897429 usgovsec:hasName "CHICOS FAS INC"
+_usgovcik:898437 to:type usgovsec:SECRegulatedEntity
+_usgovcik:898437 usgovsec:hasCIK 898437
+_usgovcik:898437 to:label "Anika Therapeutics, Inc."
+_usgovcik:898437 usgovsec:hasName "Anika Therapeutics, Inc."
+_usgovcik:899045 to:type usgovsec:SECRegulatedEntity
+_usgovcik:899045 usgovsec:hasCIK 899045
+_usgovcik:899045 to:label "LAMAR MEDIA CORP/DE"
+_usgovcik:899045 usgovsec:hasName "LAMAR MEDIA CORP/DE"
+_usgovcik:899629 to:type usgovsec:SECRegulatedEntity
+_usgovcik:899629 usgovsec:hasCIK 899629
+_usgovcik:899629 to:label "ACADIA REALTY TRUST"
+_usgovcik:899629 usgovsec:hasName "ACADIA REALTY TRUST"
+_usgovcik:904080 to:type usgovsec:SECRegulatedEntity
+_usgovcik:904080 usgovsec:hasCIK 904080
+_usgovcik:904080 to:label "STONE ENERGY CORP"
+_usgovcik:904080 usgovsec:hasName "STONE ENERGY CORP"
+_usgovcik:912242 to:type usgovsec:SECRegulatedEntity
+_usgovcik:912242 usgovsec:hasCIK 912242
+_usgovcik:912242 to:label "MACERICH CO"
+_usgovcik:912242 usgovsec:hasName "MACERICH CO"
+_usgovcik:912595 to:type usgovsec:SECRegulatedEntity
+_usgovcik:912595 usgovsec:hasCIK 912595
+_usgovcik:912595 to:label "MID AMERICA APARTMENT COMMUNITIES INC"
+_usgovcik:912595 usgovsec:hasName "MID AMERICA APARTMENT COMMUNITIES INC"
+_usgovcik:91419 to:type usgovsec:SECRegulatedEntity
+_usgovcik:91419 usgovsec:hasCIK 91419
+_usgovcik:91419 to:label "J M SMUCKER Co"
+_usgovcik:91419 usgovsec:hasName "J M SMUCKER Co"
+COMMIT
+START_TRANSACTION
+_usgovcik:915912 to:type usgovsec:SECRegulatedEntity
+_usgovcik:915912 usgovsec:hasCIK 915912
+_usgovcik:915912 to:label "AVALONBAY COMMUNITIES INC"
+_usgovcik:915912 usgovsec:hasName "AVALONBAY COMMUNITIES INC"
+_usgovcik:916076 to:type usgovsec:SECRegulatedEntity
+_usgovcik:916076 usgovsec:hasCIK 916076
+_usgovcik:916076 to:label "MARTIN MARIETTA MATERIALS INC"
+_usgovcik:916076 usgovsec:hasName "MARTIN MARIETTA MATERIALS INC"
+_usgovcik:917491 to:type usgovsec:SECRegulatedEntity
+_usgovcik:917491 usgovsec:hasCIK 917491
+_usgovcik:917491 to:label "FARO TECHNOLOGIES INC"
+_usgovcik:917491 usgovsec:hasName "FARO TECHNOLOGIES INC"
+_usgovcik:917520 to:type usgovsec:SECRegulatedEntity
+_usgovcik:917520 usgovsec:hasCIK 917520
+_usgovcik:917520 to:label "INTEGRA LIFESCIENCES HOLDINGS CORP"
+_usgovcik:917520 usgovsec:hasName "INTEGRA LIFESCIENCES HOLDINGS CORP"
+_usgovcik:91882 to:type usgovsec:SECRegulatedEntity
+_usgovcik:91882 usgovsec:hasCIK 91882
+_usgovcik:91882 to:label "SOUTH CAROLINA ELECTRIC & GAS CO"
+_usgovcik:91882 usgovsec:hasName "SOUTH CAROLINA ELECTRIC & GAS CO"
+_usgovcik:91928 to:type usgovsec:SECRegulatedEntity
+_usgovcik:91928 usgovsec:hasCIK 91928
+_usgovcik:91928 to:label "SOUTH JERSEY INDUSTRIES INC"
+_usgovcik:91928 usgovsec:hasName "SOUTH JERSEY INDUSTRIES INC"
+_usgovcik:919864 to:type usgovsec:SECRegulatedEntity
+_usgovcik:919864 usgovsec:hasCIK 919864
+_usgovcik:919864 to:label "NORTHWEST INDIANA BANCORP"
+_usgovcik:919864 usgovsec:hasName "NORTHWEST INDIANA BANCORP"
+_usgovcik:920427 to:type usgovsec:SECRegulatedEntity
+_usgovcik:920427 usgovsec:hasCIK 920427
+_usgovcik:920427 to:label "UNITY BANCORP INC /NJ/"
+_usgovcik:920427 usgovsec:hasName "UNITY BANCORP INC /NJ/"
+_usgovcik:920522 to:type usgovsec:SECRegulatedEntity
+_usgovcik:920522 usgovsec:hasCIK 920522
+_usgovcik:920522 to:label "ESSEX PROPERTY TRUST INC"
+_usgovcik:920522 usgovsec:hasName "ESSEX PROPERTY TRUST INC"
+_usgovcik:921738 to:type usgovsec:SECRegulatedEntity
+_usgovcik:921738 usgovsec:hasCIK 921738
+_usgovcik:921738 to:label "PENN NATIONAL GAMING INC"
+_usgovcik:921738 usgovsec:hasName "PENN NATIONAL GAMING INC"
+_usgovcik:921825 to:type usgovsec:SECRegulatedEntity
+_usgovcik:921825 usgovsec:hasCIK 921825
+_usgovcik:921825 to:label "FIRST INDUSTRIAL REALTY TRUST INC"
+_usgovcik:921825 usgovsec:hasName "FIRST INDUSTRIAL REALTY TRUST INC"
+_usgovcik:922864 to:type usgovsec:SECRegulatedEntity
+_usgovcik:922864 usgovsec:hasCIK 922864
+_usgovcik:922864 to:label "APARTMENT INVESTMENT & MANAGEMENT CO"
+_usgovcik:922864 usgovsec:hasName "APARTMENT INVESTMENT & MANAGEMENT CO"
+_usgovcik:923603 to:type usgovsec:SECRegulatedEntity
+_usgovcik:923603 usgovsec:hasCIK 923603
+_usgovcik:923603 to:label "FelCor Lodging Trust Inc"
+_usgovcik:923603 usgovsec:hasName "FelCor Lodging Trust Inc"
+_usgovcik:92416 to:type usgovsec:SECRegulatedEntity
+_usgovcik:92416 usgovsec:hasCIK 92416
+_usgovcik:92416 to:label "SOUTHWEST GAS CORP"
+_usgovcik:92416 usgovsec:hasName "SOUTHWEST GAS CORP"
+_usgovcik:92521 to:type usgovsec:SECRegulatedEntity
+_usgovcik:92521 usgovsec:hasCIK 92521
+_usgovcik:92521 to:label "SOUTHWESTERN PUBLIC SERVICE CO"
+_usgovcik:92521 usgovsec:hasName "SOUTHWESTERN PUBLIC SERVICE CO"
+_usgovcik:926282 to:type usgovsec:SECRegulatedEntity
+_usgovcik:926282 usgovsec:hasCIK 926282
+_usgovcik:926282 to:label "ADTRAN INC"
+_usgovcik:926282 usgovsec:hasName "ADTRAN INC"
+_usgovcik:926660 to:type usgovsec:SECRegulatedEntity
+_usgovcik:926660 usgovsec:hasCIK 926660
+_usgovcik:926660 to:label "AIMCO PROPERTIES L.P."
+_usgovcik:926660 usgovsec:hasName "AIMCO PROPERTIES L.P."
+_usgovcik:927003 to:type usgovsec:SECRegulatedEntity
+_usgovcik:927003 usgovsec:hasCIK 927003
+_usgovcik:927003 to:label "ADVANCED ENERGY INDUSTRIES INC"
+_usgovcik:927003 usgovsec:hasName "ADVANCED ENERGY INDUSTRIES INC"
+_usgovcik:927066 to:type usgovsec:SECRegulatedEntity
+_usgovcik:927066 usgovsec:hasCIK 927066
+_usgovcik:927066 to:label "DAVITA INC."
+_usgovcik:927066 usgovsec:hasName "DAVITA INC."
+_usgovcik:928658 to:type usgovsec:SECRegulatedEntity
+_usgovcik:928658 usgovsec:hasCIK 928658
+_usgovcik:928658 to:label "COVENANT TRANSPORTATION GROUP INC"
+_usgovcik:928658 usgovsec:hasName "COVENANT TRANSPORTATION GROUP INC"
+_usgovcik:930236 to:type usgovsec:SECRegulatedEntity
+_usgovcik:930236 usgovsec:hasCIK 930236
+_usgovcik:930236 to:label "REDWOOD TRUST INC"
+_usgovcik:930236 usgovsec:hasName "REDWOOD TRUST INC"
+_usgovcik:930420 to:type usgovsec:SECRegulatedEntity
+_usgovcik:930420 usgovsec:hasCIK 930420
+_usgovcik:930420 to:label "KFORCE INC"
+_usgovcik:930420 usgovsec:hasName "KFORCE INC"
+_usgovcik:931059 to:type usgovsec:SECRegulatedEntity
+_usgovcik:931059 usgovsec:hasCIK 931059
+_usgovcik:931059 to:label "Rennova Health, Inc."
+_usgovcik:931059 usgovsec:hasName "Rennova Health, Inc."
+_usgovcik:936402 to:type usgovsec:SECRegulatedEntity
+_usgovcik:936402 usgovsec:hasCIK 936402
+_usgovcik:936402 to:label "Shire plc"
+_usgovcik:936402 usgovsec:hasName "Shire plc"
+_usgovcik:94049 to:type usgovsec:SECRegulatedEntity
+_usgovcik:94049 usgovsec:hasCIK 94049
+_usgovcik:94049 to:label "STEPAN CO"
+_usgovcik:94049 usgovsec:hasName "STEPAN CO"
+_usgovcik:940942 to:type usgovsec:SECRegulatedEntity
+_usgovcik:940942 usgovsec:hasCIK 940942
+_usgovcik:940942 to:label "Hub Group, Inc."
+_usgovcik:940942 usgovsec:hasName "Hub Group, Inc."
+_usgovcik:944745 to:type usgovsec:SECRegulatedEntity
+_usgovcik:944745 usgovsec:hasCIK 944745
+_usgovcik:944745 to:label "CIVISTA BANCSHARES, INC."
+_usgovcik:944745 usgovsec:hasName "CIVISTA BANCSHARES, INC."
+_usgovcik:945617 to:type usgovsec:SECRegulatedEntity
+_usgovcik:945617 usgovsec:hasCIK 945617
+_usgovcik:945617 to:label "American Cannabis Company, Inc."
+_usgovcik:945617 usgovsec:hasName "American Cannabis Company, Inc."
+_usgovcik:945841 to:type usgovsec:SECRegulatedEntity
+_usgovcik:945841 usgovsec:hasCIK 945841
+_usgovcik:945841 to:label "POOL CORP"
+_usgovcik:945841 usgovsec:hasName "POOL CORP"
+_usgovcik:95029 to:type usgovsec:SECRegulatedEntity
+_usgovcik:95029 usgovsec:hasCIK 95029
+_usgovcik:95029 to:label "STURM RUGER & CO INC"
+_usgovcik:95029 usgovsec:hasName "STURM RUGER & CO INC"
+COMMIT
+
+COMMIT .

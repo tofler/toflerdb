@@ -1,4 +1,5 @@
-#ToflerDB
+ToflerDB
+=========
 
 ToflerDB is Tofler's graph database engine that's being built to support
 namespaces, annotated relationships, complex properties, history tracking
@@ -8,7 +9,7 @@ The database server exposes a simple interface accessible over HTTP making
 it readily accessible from any language and even directly from a webpage.
 
 
-## Getting Started ##
+== Getting Started ==
 
 For now, the system relies on MySQL, ElasticSearch and Redis as the underlying
 storage engines. To run ToflerDB, you need to have running instances of MySQL
@@ -18,4 +19,4 @@ etc.
 
 ToflerDB is distributed as a python package. It is self-sufficient except for
 a dependency on the python connector packages for MySQL, ElasticSearch and
-Redis.
+Redis

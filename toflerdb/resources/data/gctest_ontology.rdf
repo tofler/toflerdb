@@ -1,0 +1,69 @@
+START_TRANSACTION .
+gctest:Person to:subClassOf to:Entity .
+
+gctest:dateOfBirth to:subClassOf to:Property .
+gctest:dateOfBirth to:domain gctest:Person .
+gctest:dateOfBirth to:range to:Token .
+gctest:dateOfBirth to:isUnique True .
+
+
+gctest:hasSpouse to:subClassOf to:ComplexRelationalProperty .
+gctest:hasSpouse to:domain gctest:Person .
+gctest:hasSpouse to:range gctest:Person .
+gctest:hasSpouse to:isUnique True .
+
+gctest:marriedOn to:subClassOf to:Property .
+gctest:marriedOn to:domain gctest:hasSpouse .
+gctest:marriedOn to:range to:String .
+gctest:marriedOn to:isUnique True .
+
+gctest:marriedBy to:subClassOf to:RelationalProperty .
+gctest:marriedBy to:domain gctest:hasSpouse .
+gctest:marriedBy to:range gctest:Person .
+
+gctest:hasChild to:subClassOf to:RelationalProperty .
+gctest:hasChild to:domain gctest:Person .
+gctest:hasChild to:range gctest:Person .
+
+
+gctest:hasEducation to:subClassOf to:ComplexProperty .
+gctest:hasEducation to:domain gctest:Person .
+gctest:hasEducation to:range to:Null .
+
+gctest:educationLevel to:subClassOf to:Property .
+gctest:educationLevel to:domain gctest:hasEducation .
+gctest:educationLevel to:range to:String .
+
+gctest:educationDuration to:subClassOf to:ComplexProperty .
+gctest:educationDuration to:domain gctest:hasEducation .
+gctest:educationDuration to:range to:Null .
+gctest:educationDuration to:isUnique True .
+
+gctest:educationDurationStart to:subClassOf to:Property .
+gctest:educationDurationStart to:domain gctest:educationDuration .
+gctest:educationDurationStart to:range to:String .
+gctest:educationDurationStart to:isUnique True .
+
+gctest:educationDurationEnd to:subClassOf to:Property .
+gctest:educationDurationEnd to:domain gctest:educationDuration .
+gctest:educationDurationEnd to:range to:String .
+gctest:educationDurationEnd to:isUnique True .
+
+gctest:pointScored to:subClassOf to:Property .
+gctest:pointScored to:domain gctest:hasEducation .
+gctest:pointScored to:range to:Float .
+
+gctest:maxScore to:subClassOf to:Property .
+gctest:maxScore to:domain gctest:hasEducation .
+gctest:maxScore to:range to:Float .
+
+gctest:hasRelative to:subClassOf to:ComplexRelationalProperty .
+gctest:hasRelative to:domain gctest:Person .
+gctest:hasRelative to:range gctest:Person .
+gctest:hasRelative to:ontoLabel "has relative" .
+
+gctest:relationName to:subClassOf to:Property .
+gctest:relationName to:domain gctest:hasRelative .
+gctest:relationName to:range to:Token .
+gctest:relationName to:ontoLabel "relationship name" .
+COMMIT .

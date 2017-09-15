@@ -1,0 +1,7 @@
+include README
+include DESCRIPTION
+include LICENSE.txt
+include VERSION
+include requirements.txt
+include toflerdb/resources/data/*
+include toflerdb/resources/dbpatches/*
