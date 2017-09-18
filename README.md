@@ -37,11 +37,61 @@ through pypi.
 
 The system is currently only tested on Ubuntu 14.04 and higher.
 
-### Steps to get everything going ###
+### Steps to get everything going
 1. Install MySQL server
 2. Install Redis
 3. Install ElasticSearch 5.x
 4. Install toflerdb python package
 5. run `toflerdb-generate-config`. This will generate a default configuration in `.toflerdb.conf` in your home directory
-5. run `toflerdb-dbinit`
-6. run the server using `toflerdb-server` which runs on port 8888 by default
+6. run `toflerdb-dbinit`
+7. run the server using `toflerdb-server` which runs on port 8888 by default
+
+
+## Talking to the database
+
+All communication with ToflerDB takes place over http with a RESTful API. There are currently 4 endpoints - 2 for inserting data and 2 for querying. All examples assume that you are running the server locally on port 8888.
+
+### Querying Data
+
+Queries on ToflerDB are performed using the Tofler Query Language - which is very similar to MQL and Facebook's GraphQL. Queries are basically partially filled templates that are sent to ToflerDB and what you get back are fully populated objects. For example, a query could look like:
+
+```
+{
+    "to:name": "Tofler",
+    "to:type": "Business",
+    "biz:incorporation_date": null
+}
+```
+
+This is sent to `http://localhost:8888/query` as a POST request. The response would look like:
+
+```
+[
+    {
+        "to:name": "Tofler",
+        "to:type": "Business",
+        "biz:incorporation_date": "2013-11-29"
+    }
+]
+```
+
+Notice that the response is an array, although an array with a single item. If the request had matched multiple records, there would be multiple items in the returned array.
+
+More details about querying are discussed separately.
+
+
+### Inserting Data
+
+Data is inserted into ToflerDB in the form of RDF-like n-tuples, i.e. tuples of the form ```<subject> <predicate> <object>```. For example, the entries for the record as shown in the query example would be inserted as:
+
+```
+{
+    "fact_tuples": [
+        ["__myid", "to:type", "Business"],
+        ["__myid", "to:name", "Tofler"],
+        ["__myid", "biz:incorporation_date", "2013-11-29"]
+    ]
+}
+```
+
+This is sent to `http://localhost:8888/upload/facts` as a POST request.
